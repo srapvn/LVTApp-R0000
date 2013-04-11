@@ -1,0 +1,434 @@
+TBookViewer
+v7
+r1
+cCheck dependencies
+
+N/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/1.dat
+c000000004B5D3B7200000000000030DC
+t1264401266
+s12508
+
+N/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/10.dat
+c000000004B5D3B7200000000000008A5
+t1264401266
+s2213
+
+N/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/11.dat
+c000000004B5D3B720000000000000969
+t1264401266
+s2409
+
+N/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/12.dat
+c000000004B5D3B720000000000003AF0
+t1264401266
+s15088
+
+N/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/13.dat
+c000000004B5D3B720000000000001BD0
+t1264401266
+s7120
+
+N/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/14.dat
+c000000004B5D3B72000000000000110D
+t1264401266
+s4365
+
+N/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/15.dat
+c000000004B5D3B720000000000001633
+t1264401266
+s5683
+
+N/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/16.dat
+c000000004B5D3B720000000000000F25
+t1264401266
+s3877
+
+N/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/17.dat
+c000000004B5D3B720000000000001904
+t1264401266
+s6404
+
+N/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/18.dat
+c000000004B5D3B720000000000001012
+t1264401266
+s4114
+
+N/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/19.dat
+c000000004B5D3B7200000000000027FB
+t1264401266
+s10235
+
+N/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/2.dat
+c000000004B5D3B720000000000002AE8
+t1264401266
+s10984
+
+N/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/20.dat
+c000000004B5D3B720000000000001B26
+t1264401266
+s6950
+
+N/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/3.dat
+c000000004B5D3B72000000000000221B
+t1264401266
+s8731
+
+N/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/4.dat
+c000000004B5D3B720000000000001418
+t1264401266
+s5144
+
+N/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/5.dat
+c000000004B5D3B7200000000000014DA
+t1264401266
+s5338
+
+N/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/59-flag.png
+c000000004AA4F5A400000000000000F9
+t1252324772
+s249
+
+N/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/6.dat
+c000000004B5D3B7200000000000033EC
+t1264401266
+s13292
+
+N/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/7.dat
+c000000004B5D3B7200000000000030C2
+t1264401266
+s12482
+
+N/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/8.dat
+c000000004B5D3B720000000000001926
+t1264401266
+s6438
+
+N/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/9.dat
+c000000004B5D3B720000000000001514
+t1264401266
+s5396
+
+N/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/BookViewChapter0.xib
+c000000004C2C1F050000000000005F98
+t1277959941
+s24472
+
+N/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/BookViewChapter1.xib
+c000000004C2C218600000000000074EB
+t1277960582
+s29931
+
+N/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/Classes/home_48.png
+c0000000048535956000000000000127E
+t1213421910
+s4734
+
+N/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/Entitlements.plist
+c000000004C2FD2B300000000000000E1
+t1278202547
+s225
+
+N/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/MainWindow.xib
+c000000004C2B330E0000000000002C6D
+t1277899534
+s11373
+
+N/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/RootViewController.xib
+c000000004C2B56810000000000004255
+t1277908609
+s16981
+
+N/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/about.jpg
+c000000004C2C1C3E0000000000007085
+t1277959230
+s28805
+
+N/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/book_48.png
+c000000004863A85C000000000000175B
+t1214490716
+s5979
+
+N/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/Debug/BookViewer.app
+t2
+s0
+
+N/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/Debug/BookViewer.app/Contents/Info.plist
+t2
+s0
+
+N/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/Debug/BookViewer.app/Contents/PkgInfo
+t2
+s0
+
+N/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/Debug/BookViewer.app/Contents/Resources/1.dat
+t2
+s0
+
+N/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/Debug/BookViewer.app/Contents/Resources/10.dat
+t2
+s0
+
+N/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/Debug/BookViewer.app/Contents/Resources/11.dat
+t2
+s0
+
+N/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/Debug/BookViewer.app/Contents/Resources/12.dat
+t2
+s0
+
+N/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/Debug/BookViewer.app/Contents/Resources/13.dat
+t2
+s0
+
+N/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/Debug/BookViewer.app/Contents/Resources/14.dat
+t2
+s0
+
+N/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/Debug/BookViewer.app/Contents/Resources/15.dat
+t2
+s0
+
+N/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/Debug/BookViewer.app/Contents/Resources/16.dat
+t2
+s0
+
+N/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/Debug/BookViewer.app/Contents/Resources/17.dat
+t2
+s0
+
+N/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/Debug/BookViewer.app/Contents/Resources/18.dat
+t2
+s0
+
+N/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/Debug/BookViewer.app/Contents/Resources/19.dat
+t2
+s0
+
+N/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/Debug/BookViewer.app/Contents/Resources/2.dat
+t2
+s0
+
+N/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/Debug/BookViewer.app/Contents/Resources/20.dat
+t2
+s0
+
+N/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/Debug/BookViewer.app/Contents/Resources/3.dat
+t2
+s0
+
+N/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/Debug/BookViewer.app/Contents/Resources/4.dat
+t2
+s0
+
+N/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/Debug/BookViewer.app/Contents/Resources/5.dat
+t2
+s0
+
+N/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/Debug/BookViewer.app/Contents/Resources/59-flag.png
+t2
+s0
+
+N/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/Debug/BookViewer.app/Contents/Resources/6.dat
+t2
+s0
+
+N/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/Debug/BookViewer.app/Contents/Resources/7.dat
+t2
+s0
+
+N/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/Debug/BookViewer.app/Contents/Resources/8.dat
+t2
+s0
+
+N/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/Debug/BookViewer.app/Contents/Resources/9.dat
+t2
+s0
+
+N/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/Debug/BookViewer.app/Contents/Resources/BookViewChapter0.nib
+t2
+s0
+
+N/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/Debug/BookViewer.app/Contents/Resources/BookViewChapter1.nib
+t2
+s0
+
+N/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/Debug/BookViewer.app/Contents/Resources/Entitlements.plist
+t2
+s0
+
+N/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/Debug/BookViewer.app/Contents/Resources/MainWindow.nib
+t2
+s0
+
+N/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/Debug/BookViewer.app/Contents/Resources/RootViewController.nib
+t2
+s0
+
+N/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/Debug/BookViewer.app/Contents/Resources/about.jpg
+t2
+s0
+
+N/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/Debug/BookViewer.app/Contents/Resources/book_48.png
+t2
+s0
+
+N/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/Debug/BookViewer.app/Contents/Resources/decoration-top.png
+t2
+s0
+
+N/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/Debug/BookViewer.app/Contents/Resources/home_48.png
+t2
+s0
+
+N/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/Debug/BookViewer.app/Contents/Resources/icon.png
+t2
+s0
+
+N/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/Debug/BookViewer.app/Contents/Resources/icon_book_marked.png
+t2
+s0
+
+N/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/Debug/BookViewer.app/Contents/Resources/list.dat
+t2
+s0
+
+N/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/decoration-top.png
+c000000004C2B5B7D00000000000062DA
+t1277909885
+s25306
+
+N/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/icon.png
+c000000004C2C582500000000000033AF
+t1277974565
+s13231
+
+N/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/icon_book_marked.png
+c000000004AA9133D00000000000001D2
+t1252594493
+s466
+
+N/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/list.dat
+c000000004C2B5A9F00000000000000DB
+t1277909663
+s219
+
+NBookViewer-Info.plist
+c000000004C2C58410000000000000362
+t1277974593
+s866
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies301952034#301952034#0(313"[BEROR]error: There is no SDK with the name or path 'iphoneos3.1.2'[BWARN]Code Sign warning: code-signing identity 'iPhone Distribution' matches multiple identities : 'iPhone Distribution: Le Kim Khanh Nguyen', 'iPhone Distribution: Minh Thanh Nguyen' -- 'iPhone Distribution: Le Kim Khanh Nguyen' will be used.2(4@60"error: There is no SDK with the name or path 'iphoneos3.1.2'301952034#18446744073709551615#0#0(1@0"0(22@237"Code Sign warning: code-signing identity 'iPhone Distribution' matches multiple identities : 'iPhone Distribution: Le Kim Khanh Nguyen', 'iPhone Distribution: Minh Thanh Nguyen' -- 'iPhone Distribution: Le Kim Khanh Nguyen' will be used.301952034#18446744073709551615#0#0(1@0"0(0#1#0"8619856928#0"0#
+
+CCodeSign "/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/Debug/BookViewer.app"
+r0
+
+CCompileXIB "/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/BookViewChapter0.xib"
+r0
+
+CCompileXIB "/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/BookViewChapter1.xib"
+r0
+
+CCompileXIB "/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/MainWindow.xib"
+r0
+
+CCompileXIB "/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/RootViewController.xib"
+r0
+
+CCopyPlistFile "/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/Debug/BookViewer.app/Contents/Resources/Entitlements.plist" Entitlements.plist
+r0
+
+CCpResource build/Debug/BookViewer.app/Contents/Resources/1.dat 1.dat
+r0
+
+CCpResource build/Debug/BookViewer.app/Contents/Resources/10.dat 10.dat
+r0
+
+CCpResource build/Debug/BookViewer.app/Contents/Resources/11.dat 11.dat
+r0
+
+CCpResource build/Debug/BookViewer.app/Contents/Resources/12.dat 12.dat
+r0
+
+CCpResource build/Debug/BookViewer.app/Contents/Resources/13.dat 13.dat
+r0
+
+CCpResource build/Debug/BookViewer.app/Contents/Resources/14.dat 14.dat
+r0
+
+CCpResource build/Debug/BookViewer.app/Contents/Resources/15.dat 15.dat
+r0
+
+CCpResource build/Debug/BookViewer.app/Contents/Resources/16.dat 16.dat
+r0
+
+CCpResource build/Debug/BookViewer.app/Contents/Resources/17.dat 17.dat
+r0
+
+CCpResource build/Debug/BookViewer.app/Contents/Resources/18.dat 18.dat
+r0
+
+CCpResource build/Debug/BookViewer.app/Contents/Resources/19.dat 19.dat
+r0
+
+CCpResource build/Debug/BookViewer.app/Contents/Resources/2.dat 2.dat
+r0
+
+CCpResource build/Debug/BookViewer.app/Contents/Resources/20.dat 20.dat
+r0
+
+CCpResource build/Debug/BookViewer.app/Contents/Resources/3.dat 3.dat
+r0
+
+CCpResource build/Debug/BookViewer.app/Contents/Resources/4.dat 4.dat
+r0
+
+CCpResource build/Debug/BookViewer.app/Contents/Resources/5.dat 5.dat
+r0
+
+CCpResource build/Debug/BookViewer.app/Contents/Resources/59-flag.png 59-flag.png
+r0
+
+CCpResource build/Debug/BookViewer.app/Contents/Resources/6.dat 6.dat
+r0
+
+CCpResource build/Debug/BookViewer.app/Contents/Resources/7.dat 7.dat
+r0
+
+CCpResource build/Debug/BookViewer.app/Contents/Resources/8.dat 8.dat
+r0
+
+CCpResource build/Debug/BookViewer.app/Contents/Resources/9.dat 9.dat
+r0
+
+CCpResource build/Debug/BookViewer.app/Contents/Resources/about.jpg about.jpg
+r0
+
+CCpResource build/Debug/BookViewer.app/Contents/Resources/book_48.png book_48.png
+r0
+
+CCpResource build/Debug/BookViewer.app/Contents/Resources/decoration-top.png decoration-top.png
+r0
+
+CCpResource build/Debug/BookViewer.app/Contents/Resources/home_48.png Classes/home_48.png
+r0
+
+CCpResource build/Debug/BookViewer.app/Contents/Resources/icon.png icon.png
+r0
+
+CCpResource build/Debug/BookViewer.app/Contents/Resources/icon_book_marked.png icon_book_marked.png
+r0
+
+CCpResource build/Debug/BookViewer.app/Contents/Resources/list.dat list.dat
+r0
+
+CProcessInfoPlistFile "/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/Debug/BookViewer.app/Contents/Info.plist" BookViewer-Info.plist
+r0
+
+CProcessProductPackaging "/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/Entitlements.plist" "/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/BookViewer.build/Debug/BookViewer.build/BookViewer.xcent"
+r0
+
+CTouch "/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/Debug/BookViewer.app"
+r0
+

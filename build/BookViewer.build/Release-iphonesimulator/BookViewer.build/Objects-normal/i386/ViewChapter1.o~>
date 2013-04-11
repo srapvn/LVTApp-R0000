@@ -1,0 +1,4 @@
+/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/Classes/ViewChapter1.m: In function '-[ViewChapter1 NextChapter]':
+/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/Classes/ViewChapter1.m:47: warning: format not a string literal and no format arguments
+/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/Classes/ViewChapter1.m: In function '-[ViewChapter1 PreviousChapter]':
+/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/Classes/ViewChapter1.m:73: warning: format not a string literal and no format arguments

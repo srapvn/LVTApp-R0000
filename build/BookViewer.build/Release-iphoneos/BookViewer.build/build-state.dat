@@ -1,0 +1,682 @@
+TBookViewer
+v7
+r1
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk
+c000000004C3671890000000000000110
+t1278636425
+s272
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/ResourceRules.plist
+c000000004C2A7DA700000000000001E5
+t1277853095
+s485
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BFE06FA000000000034A850
+t1274939130
+s3450960
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004BFE07D200000000003E1EB0
+t1274939346
+s4071088
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004BFE07B10000000000001466
+t1274939313
+s5222
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C296E2A00000000000009CD
+t1277783594
+s2509
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C296F120000000002D563E0
+t1277783826
+s47539168
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/usr/include/Availability.h
+c000000004BF4D50E0000000000001A3B
+t1274336526
+s6715
+
+N/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/1.dat
+c000000004B5D3B7200000000000030DC
+t1264401266
+s12508
+
+N/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/10.dat
+c000000004B5D3B7200000000000008A5
+t1264401266
+s2213
+
+N/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/11.dat
+c000000004B5D3B720000000000000969
+t1264401266
+s2409
+
+N/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/12.dat
+c000000004B5D3B720000000000003AF0
+t1264401266
+s15088
+
+N/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/13.dat
+c000000004B5D3B720000000000001BD0
+t1264401266
+s7120
+
+N/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/14.dat
+c000000004B5D3B72000000000000110D
+t1264401266
+s4365
+
+N/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/15.dat
+c000000004B5D3B720000000000001633
+t1264401266
+s5683
+
+N/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/16.dat
+c000000004B5D3B720000000000000F25
+t1264401266
+s3877
+
+N/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/17.dat
+c000000004B5D3B720000000000001904
+t1264401266
+s6404
+
+N/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/18.dat
+c000000004B5D3B720000000000001012
+t1264401266
+s4114
+
+N/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/19.dat
+c000000004B5D3B7200000000000027FB
+t1264401266
+s10235
+
+N/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/2.dat
+c000000004B5D3B720000000000002AE8
+t1264401266
+s10984
+
+N/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/20.dat
+c000000004B5D3B720000000000001B26
+t1264401266
+s6950
+
+N/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/3.dat
+c000000004B5D3B72000000000000221B
+t1264401266
+s8731
+
+N/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/4.dat
+c000000004B5D3B720000000000001418
+t1264401266
+s5144
+
+N/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/5.dat
+c000000004B5D3B7200000000000014DA
+t1264401266
+s5338
+
+N/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/59-flag.png
+c000000004AA4F5A400000000000000F9
+t1252324772
+s249
+
+N/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/6.dat
+c000000004B5D3B7200000000000033EC
+t1264401266
+s13292
+
+N/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/7.dat
+c000000004B5D3B7200000000000030C2
+t1264401266
+s12482
+
+N/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/8.dat
+c000000004B5D3B720000000000001926
+t1264401266
+s6438
+
+N/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/9.dat
+c000000004B5D3B720000000000001514
+t1264401266
+s5396
+
+N/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/BookViewChapter0.xib
+c000000004C2C1F050000000000005F98
+t1277959941
+s24472
+
+N/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/BookViewChapter1.xib
+c000000004C2C218600000000000074EB
+t1277960582
+s29931
+
+N/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/BookViewer_Prefix.pch
+c000000004C2B330E0000000000000146
+t1277899534
+s326
+i<Availability.h>
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/Classes/BookViewChapter0.h
+c000000004C2C1DB5000000000000006D
+t1277959605
+s109
+i<UIKit/UIKit.h>
+
+N/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/Classes/BookViewChapter0.m
+c000000004C2C1DB100000000000005A4
+t1277959601
+s1444
+i"BookViewChapter0.h"
+
+N/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/Classes/BookViewChapter1.h
+c000000004C2B3BD900000000000000CD
+t1277901785
+s205
+i<UIKit/UIKit.h>
+
+N/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/Classes/BookViewChapter1.m
+c000000004C2B47ED00000000000006A1
+t1277904877
+s1697
+i"BookViewChapter1.h"
+
+N/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/Classes/BookViewerAppDelegate.h
+c000000004C2B3BCF000000000000012D
+t1277901775
+s301
+
+N/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/Classes/BookViewerAppDelegate.m
+c000000004C2B3BC500000000000002AC
+t1277901765
+s684
+i"BookViewerAppDelegate.h"
+i"RootViewController.h"
+
+N/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/Classes/RootViewController.h
+c000000004C2B33D600000000000000DF
+t1277899734
+s223
+i"BookViewChapter0.h"
+i"BookViewChapter1.h"
+
+N/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/Classes/RootViewController.m
+c000000004C2B5AEA0000000000001AA8
+t1277909738
+s6824
+i"RootViewController.h"
+
+N/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/Classes/ViewChapter1.h
+c000000004C2B458400000000000003CD
+t1277904260
+s973
+i<UIKit/UIKit.h>
+i<Foundation/Foundation.h>
+
+N/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/Classes/ViewChapter1.m
+c000000004C2B3BB400000000000017AE
+t1277901748
+s6062
+i"ViewChapter1.h"
+
+N/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/Classes/home_48.png
+c0000000048535956000000000000127E
+t1213421910
+s4734
+
+N/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/Entitlements.plist
+c000000004C2FD2B300000000000000E1
+t1278202547
+s225
+
+N/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/MainWindow.xib
+c000000004C2B330E0000000000002C6D
+t1277899534
+s11373
+
+N/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/RootViewController.xib
+c000000004C2B56810000000000004255
+t1277908609
+s16981
+
+N/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/about.jpg
+c000000004C2C1C3E0000000000007085
+t1277959230
+s28805
+
+N/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/book_48.png
+c000000004863A85C000000000000175B
+t1214490716
+s5979
+
+N/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/BookViewer.build/Release-iphoneos/BookViewer.build/Objects-normal/armv6/BookViewChapter0.o
+t2
+s0
+
+N/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/BookViewer.build/Release-iphoneos/BookViewer.build/Objects-normal/armv6/BookViewChapter1.o
+t2
+s0
+
+N/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/BookViewer.build/Release-iphoneos/BookViewer.build/Objects-normal/armv6/BookViewer
+t2
+s0
+
+N/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/BookViewer.build/Release-iphoneos/BookViewer.build/Objects-normal/armv6/BookViewer.LinkFileList
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/BookViewer.build/Release-iphoneos/BookViewer.build/Objects-normal/armv6/BookViewerAppDelegate.o
+t2
+s0
+
+N/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/BookViewer.build/Release-iphoneos/BookViewer.build/Objects-normal/armv6/RootViewController.o
+t2
+s0
+
+N/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/BookViewer.build/Release-iphoneos/BookViewer.build/Objects-normal/armv6/ViewChapter1.o
+t2
+s0
+
+N/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/BookViewer.build/Release-iphoneos/BookViewer.build/Objects-normal/armv6/main.o
+t2
+s0
+
+N/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/BookViewer.build/Release-iphoneos/BookViewer.build/Objects-normal/armv7/BookViewChapter0.o
+t2
+s0
+
+N/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/BookViewer.build/Release-iphoneos/BookViewer.build/Objects-normal/armv7/BookViewChapter1.o
+t2
+s0
+
+N/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/BookViewer.build/Release-iphoneos/BookViewer.build/Objects-normal/armv7/BookViewer
+t2
+s0
+
+N/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/BookViewer.build/Release-iphoneos/BookViewer.build/Objects-normal/armv7/BookViewer.LinkFileList
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/BookViewer.build/Release-iphoneos/BookViewer.build/Objects-normal/armv7/BookViewerAppDelegate.o
+t2
+s0
+
+N/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/BookViewer.build/Release-iphoneos/BookViewer.build/Objects-normal/armv7/RootViewController.o
+t2
+s0
+
+N/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/BookViewer.build/Release-iphoneos/BookViewer.build/Objects-normal/armv7/ViewChapter1.o
+t2
+s0
+
+N/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/BookViewer.build/Release-iphoneos/BookViewer.build/Objects-normal/armv7/main.o
+t2
+s0
+
+N/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/Release-iphoneos/BookViewer.app
+t2
+s0
+
+N/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/Release-iphoneos/BookViewer.app.dSYM
+t2
+s0
+
+N/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/Release-iphoneos/BookViewer.app/1.dat
+t2
+s0
+
+N/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/Release-iphoneos/BookViewer.app/10.dat
+t2
+s0
+
+N/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/Release-iphoneos/BookViewer.app/11.dat
+t2
+s0
+
+N/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/Release-iphoneos/BookViewer.app/12.dat
+t2
+s0
+
+N/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/Release-iphoneos/BookViewer.app/13.dat
+t2
+s0
+
+N/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/Release-iphoneos/BookViewer.app/14.dat
+t2
+s0
+
+N/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/Release-iphoneos/BookViewer.app/15.dat
+t2
+s0
+
+N/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/Release-iphoneos/BookViewer.app/16.dat
+t2
+s0
+
+N/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/Release-iphoneos/BookViewer.app/17.dat
+t2
+s0
+
+N/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/Release-iphoneos/BookViewer.app/18.dat
+t2
+s0
+
+N/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/Release-iphoneos/BookViewer.app/19.dat
+t2
+s0
+
+N/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/Release-iphoneos/BookViewer.app/2.dat
+t2
+s0
+
+N/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/Release-iphoneos/BookViewer.app/20.dat
+t2
+s0
+
+N/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/Release-iphoneos/BookViewer.app/3.dat
+t2
+s0
+
+N/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/Release-iphoneos/BookViewer.app/4.dat
+t2
+s0
+
+N/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/Release-iphoneos/BookViewer.app/5.dat
+t2
+s0
+
+N/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/Release-iphoneos/BookViewer.app/59-flag.png
+t2
+s0
+
+N/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/Release-iphoneos/BookViewer.app/6.dat
+t2
+s0
+
+N/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/Release-iphoneos/BookViewer.app/7.dat
+t2
+s0
+
+N/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/Release-iphoneos/BookViewer.app/8.dat
+t2
+s0
+
+N/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/Release-iphoneos/BookViewer.app/9.dat
+t2
+s0
+
+N/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/Release-iphoneos/BookViewer.app/BookViewChapter0.nib
+t2
+s0
+
+N/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/Release-iphoneos/BookViewer.app/BookViewChapter1.nib
+t2
+s0
+
+N/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/Release-iphoneos/BookViewer.app/BookViewer
+t2
+s0
+
+N/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/Release-iphoneos/BookViewer.app/Entitlements.plist
+t2
+s0
+
+N/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/Release-iphoneos/BookViewer.app/Info.plist
+t2
+s0
+
+N/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/Release-iphoneos/BookViewer.app/MainWindow.nib
+t2
+s0
+
+N/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/Release-iphoneos/BookViewer.app/PkgInfo
+t2
+s0
+
+N/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/Release-iphoneos/BookViewer.app/ResourceRules.plist
+t2
+s0
+
+N/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/Release-iphoneos/BookViewer.app/RootViewController.nib
+t2
+s0
+
+N/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/Release-iphoneos/BookViewer.app/about.jpg
+t2
+s0
+
+N/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/Release-iphoneos/BookViewer.app/book_48.png
+t2
+s0
+
+N/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/Release-iphoneos/BookViewer.app/decoration-top.png
+t2
+s0
+
+N/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/Release-iphoneos/BookViewer.app/home_48.png
+t2
+s0
+
+N/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/Release-iphoneos/BookViewer.app/icon.png
+t2
+s0
+
+N/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/Release-iphoneos/BookViewer.app/icon_book_marked.png
+t2
+s0
+
+N/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/Release-iphoneos/BookViewer.app/list.dat
+t2
+s0
+
+N/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/decoration-top.png
+c000000004C2B5B7D00000000000062DA
+t1277909885
+s25306
+
+N/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/icon.png
+c000000004C2C582500000000000033AF
+t1277974565
+s13231
+
+N/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/icon_book_marked.png
+c000000004AA9133D00000000000001D2
+t1252594493
+s466
+
+N/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/list.dat
+c000000004C2B5A9F00000000000000DB
+t1277909663
+s219
+
+N/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/main.m
+c000000004C2B330E0000000000000160
+t1277899534
+s352
+i<UIKit/UIKit.h>
+
+N/var/folders/u2/u2etg019HUe6RGtQVIIV9U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BookViewer_Prefix-apkoixzqjqrhsugsttdiaqojqiva/BookViewer_Prefix.pch.gch
+t2
+s0
+
+N/var/folders/u2/u2etg019HUe6RGtQVIIV9U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BookViewer_Prefix-bqknrxcqxsgdfccbondcziwuxttq/BookViewer_Prefix.pch.gch
+t2
+s0
+
+NBookViewer-Info.plist
+c000000004C2C58410000000000000362
+t1277974593
+s866
+
+CCompileC build/BookViewer.build/Release-iphoneos/BookViewer.build/Objects-normal/armv6/BookViewChapter0.o "/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/Classes/BookViewChapter0.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/BookViewer.build/Release-iphoneos/BookViewer.build/Objects-normal/armv6/BookViewChapter1.o "/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/Classes/BookViewChapter1.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/BookViewer.build/Release-iphoneos/BookViewer.build/Objects-normal/armv6/BookViewerAppDelegate.o "/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/Classes/BookViewerAppDelegate.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/BookViewer.build/Release-iphoneos/BookViewer.build/Objects-normal/armv6/RootViewController.o "/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/Classes/RootViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/BookViewer.build/Release-iphoneos/BookViewer.build/Objects-normal/armv6/ViewChapter1.o "/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/Classes/ViewChapter1.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/BookViewer.build/Release-iphoneos/BookViewer.build/Objects-normal/armv6/main.o "/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/main.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/BookViewer.build/Release-iphoneos/BookViewer.build/Objects-normal/armv7/BookViewChapter0.o "/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/Classes/BookViewChapter0.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/BookViewer.build/Release-iphoneos/BookViewer.build/Objects-normal/armv7/BookViewChapter1.o "/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/Classes/BookViewChapter1.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/BookViewer.build/Release-iphoneos/BookViewer.build/Objects-normal/armv7/BookViewerAppDelegate.o "/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/Classes/BookViewerAppDelegate.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/BookViewer.build/Release-iphoneos/BookViewer.build/Objects-normal/armv7/RootViewController.o "/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/Classes/RootViewController.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/BookViewer.build/Release-iphoneos/BookViewer.build/Objects-normal/armv7/ViewChapter1.o "/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/Classes/ViewChapter1.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/BookViewer.build/Release-iphoneos/BookViewer.build/Objects-normal/armv7/main.o "/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/main.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileXIB "/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/BookViewChapter0.xib"
+r0
+
+CCompileXIB "/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/BookViewChapter1.xib"
+r0
+
+CCompileXIB "/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/MainWindow.xib"
+r0
+
+CCompileXIB "/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/RootViewController.xib"
+r0
+
+CCopyPNGFile "/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/Release-iphoneos/BookViewer.app/59-flag.png" 59-flag.png
+r0
+
+CCopyPNGFile "/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/Release-iphoneos/BookViewer.app/book_48.png" book_48.png
+r0
+
+CCopyPNGFile "/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/Release-iphoneos/BookViewer.app/decoration-top.png" decoration-top.png
+r0
+
+CCopyPNGFile "/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/Release-iphoneos/BookViewer.app/home_48.png" Classes/home_48.png
+r0
+
+CCopyPNGFile "/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/Release-iphoneos/BookViewer.app/icon.png" icon.png
+r0
+
+CCopyPNGFile "/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/Release-iphoneos/BookViewer.app/icon_book_marked.png" icon_book_marked.png
+r0
+
+CCopyPlistFile "/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/Release-iphoneos/BookViewer.app/Entitlements.plist" Entitlements.plist
+r0
+
+CCpResource build/Release-iphoneos/BookViewer.app/1.dat 1.dat
+r0
+
+CCpResource build/Release-iphoneos/BookViewer.app/10.dat 10.dat
+r0
+
+CCpResource build/Release-iphoneos/BookViewer.app/11.dat 11.dat
+r0
+
+CCpResource build/Release-iphoneos/BookViewer.app/12.dat 12.dat
+r0
+
+CCpResource build/Release-iphoneos/BookViewer.app/13.dat 13.dat
+r0
+
+CCpResource build/Release-iphoneos/BookViewer.app/14.dat 14.dat
+r0
+
+CCpResource build/Release-iphoneos/BookViewer.app/15.dat 15.dat
+r0
+
+CCpResource build/Release-iphoneos/BookViewer.app/16.dat 16.dat
+r0
+
+CCpResource build/Release-iphoneos/BookViewer.app/17.dat 17.dat
+r0
+
+CCpResource build/Release-iphoneos/BookViewer.app/18.dat 18.dat
+r0
+
+CCpResource build/Release-iphoneos/BookViewer.app/19.dat 19.dat
+r0
+
+CCpResource build/Release-iphoneos/BookViewer.app/2.dat 2.dat
+r0
+
+CCpResource build/Release-iphoneos/BookViewer.app/20.dat 20.dat
+r0
+
+CCpResource build/Release-iphoneos/BookViewer.app/3.dat 3.dat
+r0
+
+CCpResource build/Release-iphoneos/BookViewer.app/4.dat 4.dat
+r0
+
+CCpResource build/Release-iphoneos/BookViewer.app/5.dat 5.dat
+r0
+
+CCpResource build/Release-iphoneos/BookViewer.app/6.dat 6.dat
+r0
+
+CCpResource build/Release-iphoneos/BookViewer.app/7.dat 7.dat
+r0
+
+CCpResource build/Release-iphoneos/BookViewer.app/8.dat 8.dat
+r0
+
+CCpResource build/Release-iphoneos/BookViewer.app/9.dat 9.dat
+r0
+
+CCpResource build/Release-iphoneos/BookViewer.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.0.sdk/ResourceRules.plist
+r0
+
+CCpResource build/Release-iphoneos/BookViewer.app/about.jpg about.jpg
+r0
+
+CCpResource build/Release-iphoneos/BookViewer.app/list.dat list.dat
+r0
+
+CCreateUniversalBinary "/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/Release-iphoneos/BookViewer.app/BookViewer" normal "armv6 armv7"
+r0
+
+CGenerateDSYMFile "/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/Release-iphoneos/BookViewer.app.dSYM" "/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/Release-iphoneos/BookViewer.app/BookViewer"
+r0
+
+CLd "/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/BookViewer.build/Release-iphoneos/BookViewer.build/Objects-normal/armv6/BookViewer" normal armv6
+r0
+
+CLd "/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/BookViewer.build/Release-iphoneos/BookViewer.build/Objects-normal/armv7/BookViewer" normal armv7
+r0
+
+CProcessInfoPlistFile "/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/Release-iphoneos/BookViewer.app/Info.plist" BookViewer-Info.plist
+r0
+
+CProcessPCH /var/folders/u2/u2etg019HUe6RGtQVIIV9U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BookViewer_Prefix-apkoixzqjqrhsugsttdiaqojqiva/BookViewer_Prefix.pch.gch BookViewer_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CProcessPCH /var/folders/u2/u2etg019HUe6RGtQVIIV9U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BookViewer_Prefix-bqknrxcqxsgdfccbondcziwuxttq/BookViewer_Prefix.pch.gch BookViewer_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CTouch "/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/Release-iphoneos/BookViewer.app"
+r0
+

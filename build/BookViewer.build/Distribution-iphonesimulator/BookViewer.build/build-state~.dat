@@ -1,0 +1,1230 @@
+TBookViewer
+v7
+r0
+t302009161.862346
+cCheck dependencies
+cProcessInfoPlistFile "/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/Distribution-iphonesimulator/BookViewer.app/Info.plist" BookViewer-Info.plist
+cCompileXIB "/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/MainWindow.xib"
+cCompileXIB "/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/RootViewController.xib"
+cCpResource build/Distribution-iphonesimulator/BookViewer.app/decoration-top.png decoration-top.png
+cCpResource build/Distribution-iphonesimulator/BookViewer.app/Icon.png Icon.png
+cCpResource build/Distribution-iphonesimulator/BookViewer.app/about.jpg about.jpg
+cCompileXIB "/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/BookViewChapter0.xib"
+cCompileXIB "/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/BookViewChapter1.xib"
+cCpResource build/Distribution-iphonesimulator/BookViewer.app/1.dat 1.dat
+cCpResource build/Distribution-iphonesimulator/BookViewer.app/2.dat 2.dat
+cCpResource build/Distribution-iphonesimulator/BookViewer.app/3.dat 3.dat
+cCpResource build/Distribution-iphonesimulator/BookViewer.app/4.dat 4.dat
+cCpResource build/Distribution-iphonesimulator/BookViewer.app/5.dat 5.dat
+cCpResource build/Distribution-iphonesimulator/BookViewer.app/6.dat 6.dat
+cCpResource build/Distribution-iphonesimulator/BookViewer.app/7.dat 7.dat
+cCpResource build/Distribution-iphonesimulator/BookViewer.app/8.dat 8.dat
+cCpResource build/Distribution-iphonesimulator/BookViewer.app/9.dat 9.dat
+cCpResource build/Distribution-iphonesimulator/BookViewer.app/10.dat 10.dat
+cCpResource build/Distribution-iphonesimulator/BookViewer.app/11.dat 11.dat
+cCpResource build/Distribution-iphonesimulator/BookViewer.app/12.dat 12.dat
+cCpResource build/Distribution-iphonesimulator/BookViewer.app/13.dat 13.dat
+cCpResource build/Distribution-iphonesimulator/BookViewer.app/14.dat 14.dat
+cCpResource build/Distribution-iphonesimulator/BookViewer.app/15.dat 15.dat
+cCpResource build/Distribution-iphonesimulator/BookViewer.app/16.dat 16.dat
+cCpResource build/Distribution-iphonesimulator/BookViewer.app/17.dat 17.dat
+cCpResource build/Distribution-iphonesimulator/BookViewer.app/18.dat 18.dat
+cCpResource build/Distribution-iphonesimulator/BookViewer.app/19.dat 19.dat
+cCpResource build/Distribution-iphonesimulator/BookViewer.app/20.dat 20.dat
+cCpResource build/Distribution-iphonesimulator/BookViewer.app/list.dat list.dat
+cCpResource build/Distribution-iphonesimulator/BookViewer.app/home_48.png Classes/home_48.png
+cCpResource build/Distribution-iphonesimulator/BookViewer.app/book_48.png book_48.png
+cCpResource build/Distribution-iphonesimulator/BookViewer.app/59-flag.png 59-flag.png
+cCpResource build/Distribution-iphonesimulator/BookViewer.app/icon_book_marked.png icon_book_marked.png
+cCpResource build/Distribution-iphonesimulator/BookViewer.app/Download.Com.png Download.Com.png
+cCpResource build/Distribution-iphonesimulator/BookViewer.app/21_256x256.png 21_256x256.png
+cCpResource build/Distribution-iphonesimulator/BookViewer.app/community_128.png community_128.png
+cCpResource build/Distribution-iphonesimulator/BookViewer.app/picture_128.png picture_128.png
+cCpResource build/Distribution-iphonesimulator/BookViewer.app/Icon015.png Icon015.png
+cCompileXIB "/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/Classes/BookViewBookmarks.xib"
+cCpResource build/Distribution-iphonesimulator/BookViewer.app/decoration-top.jpg decoration-top.jpg
+cCpResource build/Distribution-iphonesimulator/BookViewer.app/04-squiggle.png 04-squiggle.png
+cCpResource build/Distribution-iphonesimulator/BookViewer.app/04-squiggleleft.png 04-squiggleleft.png
+cCpResource build/Distribution-iphonesimulator/BookViewer.app/12-eye.png 12-eye.png
+cCpResource build/Distribution-iphonesimulator/BookViewer.app/paw.png paw.png
+cCpResource "build/Distribution-iphonesimulator/BookViewer.app/paw minus.png" "paw minus.png"
+cProcessPCH /var/folders/u2/u2etg019HUe6RGtQVIIV9U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BookViewer_Prefix-alfeejmktnikbegvondtrbinddvg/BookViewer_Prefix.pch.gch BookViewer_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/BookViewer.build/Distribution-iphonesimulator/BookViewer.build/Objects-normal/i386/main.o "/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/BookViewer.build/Distribution-iphonesimulator/BookViewer.build/Objects-normal/i386/BookViewerAppDelegate.o "/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/Classes/BookViewerAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/BookViewer.build/Distribution-iphonesimulator/BookViewer.build/Objects-normal/i386/RootViewController.o "/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/Classes/RootViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/BookViewer.build/Distribution-iphonesimulator/BookViewer.build/Objects-normal/i386/ViewChapter1.o "/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/Classes/ViewChapter1.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/BookViewer.build/Distribution-iphonesimulator/BookViewer.build/Objects-normal/i386/BookViewChapter1.o "/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/Classes/BookViewChapter1.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/BookViewer.build/Distribution-iphonesimulator/BookViewer.build/Objects-normal/i386/BookViewChapter0.o "/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/Classes/BookViewChapter0.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/BookViewer.build/Distribution-iphonesimulator/BookViewer.build/Objects-normal/i386/BookViewBookmarks.o "/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/Classes/BookViewBookmarks.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/Distribution-iphonesimulator/BookViewer.app/BookViewer" normal i386
+cGenerateDSYMFile "/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/Distribution-iphonesimulator/BookViewer.app.dSYM" "/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/Distribution-iphonesimulator/BookViewer.app/BookViewer"
+cTouch "/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/Distribution-iphonesimulator/BookViewer.app"
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk
+c000000004BD236930000000000000110
+t1272067731
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BD1CD90000000000026F020
+t1272040848
+s2551840
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004BD1FFC200000000002A96A0
+t1272053698
+s2791072
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004BD1FF9E0000000000001355
+t1272053662
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004BD20412000000000000098F
+t1272054802
+s2447
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004BD20471000000000222E640
+t1272054897
+s35841600
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/usr/include/Availability.h
+c000000004BD1CFC10000000000001A1A
+t1272041409
+s6682
+
+N/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/04-squiggle.png
+c0000000049716018000000000000019B
+t1232166936
+s411
+
+N/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/04-squiggleleft.png
+c000000004C4FBC2D00000000000004F2
+t1280293933
+s1266
+
+N/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/1.dat
+c000000004B5D3B7200000000000030DC
+t1264401266
+s12508
+
+N/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/10.dat
+c000000004B5D3B7200000000000008A5
+t1264401266
+s2213
+
+N/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/11.dat
+c000000004B5D3B720000000000000969
+t1264401266
+s2409
+
+N/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/12-eye.png
+c00000000497160740000000000000142
+t1232167028
+s322
+
+N/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/12.dat
+c000000004B5D3B720000000000003AF0
+t1264401266
+s15088
+
+N/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/13.dat
+c000000004B5D3B720000000000001BD0
+t1264401266
+s7120
+
+N/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/14.dat
+c000000004B5D3B72000000000000110D
+t1264401266
+s4365
+
+N/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/15.dat
+c000000004B5D3B720000000000001633
+t1264401266
+s5683
+
+N/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/16.dat
+c000000004B5D3B720000000000000F25
+t1264401266
+s3877
+
+N/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/17.dat
+c000000004B5D3B720000000000001904
+t1264401266
+s6404
+
+N/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/18.dat
+c000000004B5D3B720000000000001012
+t1264401266
+s4114
+
+N/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/19.dat
+c000000004B5D3B7200000000000027FB
+t1264401266
+s10235
+
+N/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/2.dat
+c000000004B5D3B720000000000002AE8
+t1264401266
+s10984
+
+N/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/20.dat
+c000000004B5D3B720000000000001B26
+t1264401266
+s6950
+
+N/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/21_256x256.png
+c00000000488B52AC0000000000003C9A
+t1217090220
+s15514
+
+N/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/3.dat
+c000000004B5D3B72000000000000221B
+t1264401266
+s8731
+
+N/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/4.dat
+c000000004B5D3B720000000000001418
+t1264401266
+s5144
+
+N/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/5.dat
+c000000004B5D3B7200000000000014DA
+t1264401266
+s5338
+
+N/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/59-flag.png
+c000000004AA4F5A400000000000000F9
+t1252324772
+s249
+
+N/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/6.dat
+c000000004B5D3B7200000000000033EC
+t1264401266
+s13292
+
+N/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/7.dat
+c000000004B5D3B7200000000000030C2
+t1264401266
+s12482
+
+N/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/8.dat
+c000000004B5D3B720000000000001926
+t1264401266
+s6438
+
+N/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/9.dat
+c000000004B5D3B720000000000001514
+t1264401266
+s5396
+
+N/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/BookViewChapter0.xib
+c000000004C500697000000000005F773
+t1280312983
+s391027
+
+N/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/BookViewChapter1.xib
+c000000004C5011E6000000000000A4E9
+t1280315878
+s42217
+
+N/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/BookViewer_Prefix.pch
+c000000004C2B330E0000000000000146
+t1277899534
+s326
+i<Availability.h>
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/Classes/BookViewBookmarks.h
+c000000004C4F528F0000000000000162
+t1280266895
+s354
+i<UIKit/UIKit.h>
+i"BookViewChapter1.h"
+
+N/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/Classes/BookViewBookmarks.m
+c000000004C4F604F0000000000001CBB
+t1280270415
+s7355
+i"BookViewBookmarks.h"
+
+N/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/Classes/BookViewBookmarks.xib
+c000000004C4F3DFD0000000000001C7E
+t1280261629
+s7294
+
+N/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/Classes/BookViewChapter0.h
+c000000004C4F437B00000000000000D8
+t1280263035
+s216
+i<UIKit/UIKit.h>
+i"BookViewChapter1.h"
+i"BookViewBookmarks.h"
+
+N/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/Classes/BookViewChapter0.m
+c000000004C5007B80000000000000B31
+t1280313272
+s2865
+i"BookViewChapter0.h"
+
+N/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/Classes/BookViewChapter1.h
+c000000004C500D33000000000000014F
+t1280314675
+s335
+i<UIKit/UIKit.h>
+
+N/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/Classes/BookViewChapter1.m
+c000000004C5012170000000000000945
+t1280315927
+s2373
+i"BookViewChapter1.h"
+
+N/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/Classes/BookViewerAppDelegate.h
+c000000004C2B3BCF000000000000012D
+t1277901775
+s301
+
+N/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/Classes/BookViewerAppDelegate.m
+c000000004C2B3BC500000000000002AC
+t1277901765
+s684
+i"BookViewerAppDelegate.h"
+i"RootViewController.h"
+
+N/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/Classes/RootViewController.h
+c000000004C2B33D600000000000000DF
+t1277899734
+s223
+i"BookViewChapter0.h"
+i"BookViewChapter1.h"
+
+N/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/Classes/RootViewController.m
+c000000004C4F564C0000000000001A9C
+t1280267852
+s6812
+i"RootViewController.h"
+
+N/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/Classes/ViewChapter1.h
+c000000004C5009E70000000000000433
+t1280313831
+s1075
+i<UIKit/UIKit.h>
+i<Foundation/Foundation.h>
+
+N/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/Classes/ViewChapter1.m
+c000000004C5009B800000000000019EC
+t1280313784
+s6636
+i"ViewChapter1.h"
+
+N/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/Classes/home_48.png
+c0000000048535956000000000000127E
+t1213421910
+s4734
+
+N/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/Download.Com.png
+c000000004564224A0000000000005850
+t1164190282
+s22608
+
+N/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/Icon.png
+c000000004C2C582500000000000033AF
+t1277974565
+s13231
+
+N/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/Icon015.png
+c0000000046EE00360000000000003862
+t1190002742
+s14434
+
+N/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/MainWindow.xib
+c000000004C2B330E0000000000002C6D
+t1277899534
+s11373
+
+N/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/RootViewController.xib
+c000000004C2B56810000000000004255
+t1277908609
+s16981
+
+N/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/about.jpg
+c000000004C4F3938000000000000972F
+t1280260408
+s38703
+
+N/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/book_48.png
+c000000004863A85C000000000000175B
+t1214490716
+s5979
+
+N/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/BookViewer.build/Distribution-iphonesimulator/BookViewer.build/Objects-normal/i386/BookViewBookmarks.o
+t1280316361
+s48940
+
+N/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/BookViewer.build/Distribution-iphonesimulator/BookViewer.build/Objects-normal/i386/BookViewChapter0.o
+t1280316361
+s45036
+
+N/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/BookViewer.build/Distribution-iphonesimulator/BookViewer.build/Objects-normal/i386/BookViewChapter1.o
+t1280316361
+s43048
+
+N/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/BookViewer.build/Distribution-iphonesimulator/BookViewer.build/Objects-normal/i386/BookViewer.LinkFileList
+c000000004C5013C30000000000000497
+t1280316355
+s1175
+
+N/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/BookViewer.build/Distribution-iphonesimulator/BookViewer.build/Objects-normal/i386/BookViewerAppDelegate.o
+t1280316360
+s45188
+
+N/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/BookViewer.build/Distribution-iphonesimulator/BookViewer.build/Objects-normal/i386/RootViewController.o
+t1280316360
+s49948
+
+N/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/BookViewer.build/Distribution-iphonesimulator/BookViewer.build/Objects-normal/i386/ViewChapter1.o
+t1280316360
+s53180
+
+N/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/BookViewer.build/Distribution-iphonesimulator/BookViewer.build/Objects-normal/i386/main.o
+t1280316360
+s6332
+
+N/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/Distribution-iphonesimulator/BookViewer.app
+t1280316361
+s1666
+
+N/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/Distribution-iphonesimulator/BookViewer.app.dSYM
+t1280316361
+s102
+
+N/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/Distribution-iphonesimulator/BookViewer.app/04-squiggle.png
+t1280316358
+s411
+
+N/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/Distribution-iphonesimulator/BookViewer.app/04-squiggleleft.png
+t1280316358
+s1266
+
+N/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/Distribution-iphonesimulator/BookViewer.app/1.dat
+t1280316358
+s12508
+
+N/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/Distribution-iphonesimulator/BookViewer.app/10.dat
+t1280316358
+s2213
+
+N/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/Distribution-iphonesimulator/BookViewer.app/11.dat
+t1280316358
+s2409
+
+N/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/Distribution-iphonesimulator/BookViewer.app/12-eye.png
+t1280316358
+s322
+
+N/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/Distribution-iphonesimulator/BookViewer.app/12.dat
+t1280316358
+s15088
+
+N/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/Distribution-iphonesimulator/BookViewer.app/13.dat
+t1280316358
+s7120
+
+N/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/Distribution-iphonesimulator/BookViewer.app/14.dat
+t1280316358
+s4365
+
+N/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/Distribution-iphonesimulator/BookViewer.app/15.dat
+t1280316358
+s5683
+
+N/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/Distribution-iphonesimulator/BookViewer.app/16.dat
+t1280316358
+s3877
+
+N/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/Distribution-iphonesimulator/BookViewer.app/17.dat
+t1280316358
+s6404
+
+N/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/Distribution-iphonesimulator/BookViewer.app/18.dat
+t1280316358
+s4114
+
+N/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/Distribution-iphonesimulator/BookViewer.app/19.dat
+t1280316358
+s10235
+
+N/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/Distribution-iphonesimulator/BookViewer.app/2.dat
+t1280316358
+s10984
+
+N/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/Distribution-iphonesimulator/BookViewer.app/20.dat
+t1280316358
+s6950
+
+N/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/Distribution-iphonesimulator/BookViewer.app/21_256x256.png
+t1280316358
+s15514
+
+N/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/Distribution-iphonesimulator/BookViewer.app/3.dat
+t1280316358
+s8731
+
+N/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/Distribution-iphonesimulator/BookViewer.app/4.dat
+t1280316358
+s5144
+
+N/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/Distribution-iphonesimulator/BookViewer.app/5.dat
+t1280316358
+s5338
+
+N/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/Distribution-iphonesimulator/BookViewer.app/59-flag.png
+t1280316358
+s249
+
+N/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/Distribution-iphonesimulator/BookViewer.app/6.dat
+t1280316358
+s13292
+
+N/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/Distribution-iphonesimulator/BookViewer.app/7.dat
+t1280316358
+s12482
+
+N/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/Distribution-iphonesimulator/BookViewer.app/8.dat
+t1280316358
+s6438
+
+N/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/Distribution-iphonesimulator/BookViewer.app/9.dat
+t1280316358
+s5396
+
+N/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/Distribution-iphonesimulator/BookViewer.app/BookViewBookmarks.nib
+t1280316359
+s979
+
+N/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/Distribution-iphonesimulator/BookViewer.app/BookViewChapter0.nib
+t1280316358
+s3284
+
+N/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/Distribution-iphonesimulator/BookViewer.app/BookViewChapter1.nib
+t1280316358
+s2876
+
+N/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/Distribution-iphonesimulator/BookViewer.app/BookViewer
+t1280316361
+s40928
+
+N/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/Distribution-iphonesimulator/BookViewer.app/Download.Com.png
+t1280316358
+s22608
+
+N/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/Distribution-iphonesimulator/BookViewer.app/Icon.png
+t1280316357
+s13231
+
+N/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/Distribution-iphonesimulator/BookViewer.app/Icon015.png
+t1280316358
+s14434
+
+N/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/Distribution-iphonesimulator/BookViewer.app/Info.plist
+t1280316355
+s620
+
+N/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/Distribution-iphonesimulator/BookViewer.app/MainWindow.nib
+t1280316357
+s1488
+
+N/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/Distribution-iphonesimulator/BookViewer.app/PkgInfo
+t1280316355
+s8
+
+N/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/Distribution-iphonesimulator/BookViewer.app/RootViewController.nib
+t1280316357
+s971
+
+N/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/Distribution-iphonesimulator/BookViewer.app/about.jpg
+t1280316357
+s38703
+
+N/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/Distribution-iphonesimulator/BookViewer.app/book_48.png
+t1280316358
+s5979
+
+N/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/Distribution-iphonesimulator/BookViewer.app/community_128.png
+t1280316358
+s15076
+
+N/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/Distribution-iphonesimulator/BookViewer.app/decoration-top.jpg
+t1280316358
+s67173
+
+N/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/Distribution-iphonesimulator/BookViewer.app/decoration-top.png
+t1280316357
+s25306
+
+N/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/Distribution-iphonesimulator/BookViewer.app/home_48.png
+t1280316358
+s4734
+
+N/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/Distribution-iphonesimulator/BookViewer.app/icon_book_marked.png
+t1280316358
+s466
+
+N/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/Distribution-iphonesimulator/BookViewer.app/list.dat
+t1280316358
+s215
+
+N/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/Distribution-iphonesimulator/BookViewer.app/paw minus.png
+t1280316358
+s459
+
+N/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/Distribution-iphonesimulator/BookViewer.app/paw.png
+t1280316358
+s330
+
+N/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/Distribution-iphonesimulator/BookViewer.app/picture_128.png
+t1280316358
+s14169
+
+N/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/community_128.png
+c000000004430B73E0000000000003AE4
+t1144043326
+s15076
+
+N/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/decoration-top.jpg
+c000000004C4F5B6B0000000000010665
+t1280269163
+s67173
+
+N/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/decoration-top.png
+c000000004C2B5B7D00000000000062DA
+t1277909885
+s25306
+
+N/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/icon_book_marked.png
+c000000004AA9133D00000000000001D2
+t1252594493
+s466
+
+N/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/list.dat
+c000000004C4F561700000000000000D7
+t1280267799
+s215
+
+N/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/main.m
+c000000004C2B330E0000000000000160
+t1277899534
+s352
+i<UIKit/UIKit.h>
+
+N/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/paw minus.png
+c000000004C4FC0F800000000000001CB
+t1280295160
+s459
+
+N/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/paw.png
+c000000004A881BA2000000000000014A
+t1250433954
+s330
+
+N/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/picture_128.png
+c000000004430B71C0000000000003759
+t1144043292
+s14169
+
+N/var/folders/u2/u2etg019HUe6RGtQVIIV9U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BookViewer_Prefix-alfeejmktnikbegvondtrbinddvg/BookViewer_Prefix.pch.gch
+t1280316360
+s13531024
+
+NBookViewer-Info.plist
+c000000004C4F5A7F000000000000036A
+t1280268927
+s874
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies302009155#302009155#0(0"0(0#1#0"8632015168#0"0#
+
+CCompileC build/BookViewer.build/Distribution-iphonesimulator/BookViewer.build/Objects-normal/i386/BookViewBookmarks.o "/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/Classes/BookViewBookmarks.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s302009161.171309
+e302009161.383610
+r1
+xCompileC
+xbuild/BookViewer.build/Distribution-iphonesimulator/BookViewer.build/Objects-normal/i386/BookViewBookmarks.o
+x/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/Classes/BookViewBookmarks.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/Classes/BookViewBookmarks.m: In function '-[BookViewBookmarks viewWillAppear:]':
+o/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/Classes/BookViewBookmarks.m:47: warning: incompatible Objective-C types assigning 'struct NSArray *', expected 'struct NSMutableArray *'
+o/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/Classes/BookViewBookmarks.m:53: warning: unused variable 'positionSized'
+o/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/Classes/BookViewBookmarks.m: In function '-[BookViewBookmarks tableView:cellForRowAtIndexPath:]':
+o/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/Classes/BookViewBookmarks.m:145: warning: 'setText:' is deprecated (declared at /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITableViewCell.h:210)
+o/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/Classes/BookViewBookmarks.m:138: warning: unused variable 'prefs'
+o/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/Classes/BookViewBookmarks.m: In function '-[BookViewBookmarks tableView:didSelectRowAtIndexPath:]':
+o/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/Classes/BookViewBookmarks.m:214: warning: 'UIView' may not respond to '-setChapterid:'
+o/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/Classes/BookViewBookmarks.m:214: warning: (Messages without a matching method signature
+o/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/Classes/BookViewBookmarks.m:214: warning: will be assumed to return 'id' and accept
+o/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/Classes/BookViewBookmarks.m:214: warning: '...' as arguments.)
+o/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/Classes/BookViewBookmarks.m:215: warning: 'UIView' may not respond to '-setNoChapter:'
+o/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/Classes/BookViewBookmarks.m:220: warning: 'UIView' may not respond to '-setFile:'
+o/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/Classes/BookViewBookmarks.m:222: warning: 'UIView' may not respond to '-willRestoreMark'
+o/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/Classes/BookViewBookmarks.m:206: warning: unused variable 'i'
+lSLF07#2@96"Compile /Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/Classes/BookViewBookmarks.m302009161#302009161#0(2349"/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/Classes/BookViewBookmarks.m: In function '-[BookViewBookmarks viewWillAppear:]':/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/Classes/BookViewBookmarks.m:47: warning: incompatible Objective-C types assigning 'struct NSArray *', expected 'struct NSMutableArray *'/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/Classes/BookViewBookmarks.m:53: warning: unused variable 'positionSized'/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/Classes/BookViewBookmarks.m: In function '-[BookViewBookmarks tableView:cellForRowAtIndexPath:]':/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/Classes/BookViewBookmarks.m:145: warning: 'setText:' is deprecated (declared at /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITableViewCell.h:210)/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/Classes/BookViewBookmarks.m:138: warning: unused variable 'prefs'/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/Classes/BookViewBookmarks.m: In function '-[BookViewBookmarks tableView:didSelectRowAtIndexPath:]':/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/Classes/BookViewBookmarks.m:214: warning: 'UIView' may not respond to '-setChapterid:'/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/Classes/BookViewBookmarks.m:214: warning: (Messages without a matching method signature/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/Classes/BookViewBookmarks.m:214: warning: will be assumed to return 'id' and accept/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/Classes/BookViewBookmarks.m:214: warning: '...' as arguments.)/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/Classes/BookViewBookmarks.m:215: warning: 'UIView' may not respond to '-setNoChapter:'/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/Classes/BookViewBookmarks.m:220: warning: 'UIView' may not respond to '-setFile:'/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/Classes/BookViewBookmarks.m:222: warning: 'UIView' may not respond to '-willRestoreMark'/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/Classes/BookViewBookmarks.m:206: warning: unused variable 'i'10(22@95"Incompatible Objective-C types assigning 'struct NSArray *', expected 'struct NSMutableArray *'302009161#142#198#0(6@88"/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/Classes/BookViewBookmarks.m301963215#47#0#47#0#58"incompatible Objective-C types assigning '*', expected '*'0(22@31"Unused variable 'positionSized'302009161#340#134#0(6@88"/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/Classes/BookViewBookmarks.m301963215#53#0#53#0#19"unused variable '*'0(22@194"'setText:' is deprecated (declared at /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITableViewCell.h:210)302009161#633#298#0(6@88"/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/Classes/BookViewBookmarks.m301963215#145#0#145#0#33"'*' is deprecated (declared at *)0(22@23"Unused variable 'prefs'302009161#931#127#0(6@88"/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/Classes/BookViewBookmarks.m301963215#138#0#138#0#19"unused variable '*'0(22@44"'UIView' may not respond to '-setChapterid:'302009161#1219#148#0(6@88"/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/Classes/BookViewBookmarks.m301963215#214#0#214#0#26"'*' may not respond to '*'0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)302009161#1367#149#0(6@88"/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/Classes/BookViewBookmarks.m301963215#214#0#214#0#0"0(22@44"'UIView' may not respond to '-setNoChapter:'302009161#1785#148#0(6@88"/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/Classes/BookViewBookmarks.m301963215#215#0#215#0#26"'*' may not respond to '*'0(22@39"'UIView' may not respond to '-setFile:'302009161#1933#143#0(6@88"/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/Classes/BookViewBookmarks.m301963215#220#0#220#0#26"'*' may not respond to '*'0(22@46"'UIView' may not respond to '-willRestoreMark'302009161#2076#150#0(6@88"/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/Classes/BookViewBookmarks.m301963215#222#0#222#0#26"'*' may not respond to '*'0(22@19"Unused variable 'i'302009161#2226#123#0(6@88"/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/Classes/BookViewBookmarks.m301963215#206#0#206#0#19"unused variable '*'0(0#0#88"/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/Classes/BookViewBookmarks.m8621269056#2339"    cd "/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/BookViewer.build/Distribution-iphonesimulator/BookViewer.build/BookViewer-generated-files.hmap" "-I/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/BookViewer.build/Distribution-iphonesimulator/BookViewer.build/BookViewer-own-target-headers.hmap" "-I/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/BookViewer.build/Distribution-iphonesimulator/BookViewer.build/BookViewer-all-target-headers.hmap" -iquote "/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/BookViewer.build/Distribution-iphonesimulator/BookViewer.build/BookViewer-project-headers.hmap" "-F/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/Distribution-iphonesimulator" "-I/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/Distribution-iphonesimulator/include" "-I/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/BookViewer.build/Distribution-iphonesimulator/BookViewer.build/DerivedSources/i386" "-I/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/BookViewer.build/Distribution-iphonesimulator/BookViewer.build/DerivedSources" -include /var/folders/u2/u2etg019HUe6RGtQVIIV9U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BookViewer_Prefix-alfeejmktnikbegvondtrbinddvg/BookViewer_Prefix.pch -c "/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/Classes/BookViewBookmarks.m" -o "/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/BookViewer.build/Distribution-iphonesimulator/BookViewer.build/Objects-normal/i386/BookViewBookmarks.o"0#
+
+CCompileC build/BookViewer.build/Distribution-iphonesimulator/BookViewer.build/Objects-normal/i386/BookViewChapter0.o "/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/Classes/BookViewChapter0.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s302009160.971604
+e302009161.171182
+r1
+xCompileC
+xbuild/BookViewer.build/Distribution-iphonesimulator/BookViewer.build/Objects-normal/i386/BookViewChapter0.o
+x/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/Classes/BookViewChapter0.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/Classes/BookViewChapter0.m: In function '-[BookViewChapter0 toChapter1]':
+o/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/Classes/BookViewChapter0.m:43: warning: incompatible Objective-C types initializing 'struct NSArray *', expected 'struct NSMutableArray *'
+o/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/Classes/BookViewChapter0.m:49: warning: 'UIView' may not respond to '-setChapterid:'
+o/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/Classes/BookViewChapter0.m:49: warning: (Messages without a matching method signature
+o/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/Classes/BookViewChapter0.m:49: warning: will be assumed to return 'id' and accept
+o/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/Classes/BookViewChapter0.m:49: warning: '...' as arguments.)
+o/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/Classes/BookViewChapter0.m:50: warning: 'UIView' may not respond to '-setNoChapter:'
+o/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/Classes/BookViewChapter0.m:55: warning: 'UIView' may not respond to '-setFile:'
+lSLF07#2@95"Compile /Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/Classes/BookViewChapter0.m302009160#302009161#0(1180"/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/Classes/BookViewChapter0.m: In function '-[BookViewChapter0 toChapter1]':/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/Classes/BookViewChapter0.m:43: warning: incompatible Objective-C types initializing 'struct NSArray *', expected 'struct NSMutableArray *'/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/Classes/BookViewChapter0.m:49: warning: 'UIView' may not respond to '-setChapterid:'/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/Classes/BookViewChapter0.m:49: warning: (Messages without a matching method signature/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/Classes/BookViewChapter0.m:49: warning: will be assumed to return 'id' and accept/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/Classes/BookViewChapter0.m:49: warning: '...' as arguments.)/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/Classes/BookViewChapter0.m:50: warning: 'UIView' may not respond to '-setNoChapter:'/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/Classes/BookViewChapter0.m:55: warning: 'UIView' may not respond to '-setFile:'5(22@98"Incompatible Objective-C types initializing 'struct NSArray *', expected 'struct NSMutableArray *'302009161#135#200#0(6@87"/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/Classes/BookViewChapter0.m302006072#43#0#43#0#61"incompatible Objective-C types initializing '*', expected '*'0(22@44"'UIView' may not respond to '-setChapterid:'302009161#335#146#0(6@87"/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/Classes/BookViewChapter0.m302006072#49#0#49#0#26"'*' may not respond to '*'0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)302009161#481#147#0(6@87"/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/Classes/BookViewChapter0.m302006072#49#0#49#0#0"0(22@44"'UIView' may not respond to '-setNoChapter:'302009161#893#146#0(6@87"/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/Classes/BookViewChapter0.m302006072#50#0#50#0#26"'*' may not respond to '*'0(22@39"'UIView' may not respond to '-setFile:'302009161#1039#141#0(6@87"/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/Classes/BookViewChapter0.m302006072#55#0#55#0#26"'*' may not respond to '*'0(0#0#87"/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/Classes/BookViewChapter0.m8634922048#2337"    cd "/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/BookViewer.build/Distribution-iphonesimulator/BookViewer.build/BookViewer-generated-files.hmap" "-I/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/BookViewer.build/Distribution-iphonesimulator/BookViewer.build/BookViewer-own-target-headers.hmap" "-I/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/BookViewer.build/Distribution-iphonesimulator/BookViewer.build/BookViewer-all-target-headers.hmap" -iquote "/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/BookViewer.build/Distribution-iphonesimulator/BookViewer.build/BookViewer-project-headers.hmap" "-F/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/Distribution-iphonesimulator" "-I/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/Distribution-iphonesimulator/include" "-I/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/BookViewer.build/Distribution-iphonesimulator/BookViewer.build/DerivedSources/i386" "-I/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/BookViewer.build/Distribution-iphonesimulator/BookViewer.build/DerivedSources" -include /var/folders/u2/u2etg019HUe6RGtQVIIV9U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BookViewer_Prefix-alfeejmktnikbegvondtrbinddvg/BookViewer_Prefix.pch -c "/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/Classes/BookViewChapter0.m" -o "/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/BookViewer.build/Distribution-iphonesimulator/BookViewer.build/Objects-normal/i386/BookViewChapter0.o"0#
+
+CCompileC build/BookViewer.build/Distribution-iphonesimulator/BookViewer.build/Objects-normal/i386/BookViewChapter1.o "/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/Classes/BookViewChapter1.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s302009160.928133
+e302009161.230680
+r1
+xCompileC
+xbuild/BookViewer.build/Distribution-iphonesimulator/BookViewer.build/Objects-normal/i386/BookViewChapter1.o
+x/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/Classes/BookViewChapter1.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/Classes/BookViewChapter1.m: In function '-[BookViewChapter1 viewDidLoad]':
+o/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/Classes/BookViewChapter1.m:49: warning: 'UIView' may not respond to '-setdelegate:'
+o/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/Classes/BookViewChapter1.m:49: warning: (Messages without a matching method signature
+o/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/Classes/BookViewChapter1.m:49: warning: will be assumed to return 'id' and accept
+o/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/Classes/BookViewChapter1.m:49: warning: '...' as arguments.)
+o/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/Classes/BookViewChapter1.m: In function '-[BookViewChapter1 viewWillAppear:]':
+o/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/Classes/BookViewChapter1.m:60: warning: 'UIView' may not respond to '-checkRestoreMark'
+lSLF07#2@95"Compile /Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/Classes/BookViewChapter1.m302009160#302009161#0(982"/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/Classes/BookViewChapter1.m: In function '-[BookViewChapter1 viewDidLoad]':/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/Classes/BookViewChapter1.m:49: warning: 'UIView' may not respond to '-setdelegate:'/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/Classes/BookViewChapter1.m:49: warning: (Messages without a matching method signature/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/Classes/BookViewChapter1.m:49: warning: will be assumed to return 'id' and accept/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/Classes/BookViewChapter1.m:49: warning: '...' as arguments.)/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/Classes/BookViewChapter1.m: In function '-[BookViewChapter1 viewWillAppear:]':/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/Classes/BookViewChapter1.m:60: warning: 'UIView' may not respond to '-checkRestoreMark'3(22@43"'UIView' may not respond to '-setdelegate:'302009161#136#145#0(6@87"/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/Classes/BookViewChapter1.m302008727#49#0#49#0#26"'*' may not respond to '*'0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)302009161#281#147#0(6@87"/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/Classes/BookViewChapter1.m302008727#49#0#49#0#0"0(22@47"'UIView' may not respond to '-checkRestoreMark'302009161#833#149#0(6@87"/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/Classes/BookViewChapter1.m302008727#60#0#60#0#26"'*' may not respond to '*'0(0#0#87"/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/Classes/BookViewChapter1.m8606144192#2337"    cd "/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/BookViewer.build/Distribution-iphonesimulator/BookViewer.build/BookViewer-generated-files.hmap" "-I/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/BookViewer.build/Distribution-iphonesimulator/BookViewer.build/BookViewer-own-target-headers.hmap" "-I/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/BookViewer.build/Distribution-iphonesimulator/BookViewer.build/BookViewer-all-target-headers.hmap" -iquote "/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/BookViewer.build/Distribution-iphonesimulator/BookViewer.build/BookViewer-project-headers.hmap" "-F/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/Distribution-iphonesimulator" "-I/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/Distribution-iphonesimulator/include" "-I/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/BookViewer.build/Distribution-iphonesimulator/BookViewer.build/DerivedSources/i386" "-I/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/BookViewer.build/Distribution-iphonesimulator/BookViewer.build/DerivedSources" -include /var/folders/u2/u2etg019HUe6RGtQVIIV9U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BookViewer_Prefix-alfeejmktnikbegvondtrbinddvg/BookViewer_Prefix.pch -c "/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/Classes/BookViewChapter1.m" -o "/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/BookViewer.build/Distribution-iphonesimulator/BookViewer.build/Objects-normal/i386/BookViewChapter1.o"0#
+
+CCompileC build/BookViewer.build/Distribution-iphonesimulator/BookViewer.build/Objects-normal/i386/BookViewerAppDelegate.o "/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/Classes/BookViewerAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s302009160.475903
+e302009160.626837
+r1
+xCompileC
+xbuild/BookViewer.build/Distribution-iphonesimulator/BookViewer.build/Objects-normal/i386/BookViewerAppDelegate.o
+x/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/Classes/BookViewerAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@100"Compile /Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/Classes/BookViewerAppDelegate.m302009160#302009160#0(0"0(0#0#92"/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/Classes/BookViewerAppDelegate.m8632697952#2347"    cd "/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/BookViewer.build/Distribution-iphonesimulator/BookViewer.build/BookViewer-generated-files.hmap" "-I/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/BookViewer.build/Distribution-iphonesimulator/BookViewer.build/BookViewer-own-target-headers.hmap" "-I/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/BookViewer.build/Distribution-iphonesimulator/BookViewer.build/BookViewer-all-target-headers.hmap" -iquote "/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/BookViewer.build/Distribution-iphonesimulator/BookViewer.build/BookViewer-project-headers.hmap" "-F/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/Distribution-iphonesimulator" "-I/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/Distribution-iphonesimulator/include" "-I/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/BookViewer.build/Distribution-iphonesimulator/BookViewer.build/DerivedSources/i386" "-I/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/BookViewer.build/Distribution-iphonesimulator/BookViewer.build/DerivedSources" -include /var/folders/u2/u2etg019HUe6RGtQVIIV9U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BookViewer_Prefix-alfeejmktnikbegvondtrbinddvg/BookViewer_Prefix.pch -c "/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/Classes/BookViewerAppDelegate.m" -o "/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/BookViewer.build/Distribution-iphonesimulator/BookViewer.build/Objects-normal/i386/BookViewerAppDelegate.o"0#
+
+CCompileC build/BookViewer.build/Distribution-iphonesimulator/BookViewer.build/Objects-normal/i386/RootViewController.o "/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/Classes/RootViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s302009160.617815
+e302009160.928023
+r1
+xCompileC
+xbuild/BookViewer.build/Distribution-iphonesimulator/BookViewer.build/Objects-normal/i386/RootViewController.o
+x/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/Classes/RootViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/Classes/RootViewController.m: In function '-[RootViewController viewDidLoad]':
+o/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/Classes/RootViewController.m:18: warning: incompatible Objective-C types assigning 'struct NSArray *', expected 'struct NSMutableArray *'
+o/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/Classes/RootViewController.m: In function '-[RootViewController tableView:cellForRowAtIndexPath:]':
+o/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/Classes/RootViewController.m:118: warning: 'setText:' is deprecated (declared at /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITableViewCell.h:210)
+o/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/Classes/RootViewController.m:122: warning: 'setTextColor:' is deprecated (declared at /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITableViewCell.h:210)
+o/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/Classes/RootViewController.m: In function '-[RootViewController tableView:didSelectRowAtIndexPath:]':
+o/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/Classes/RootViewController.m:155: warning: 'UIView' may not respond to '-setChapterid:'
+o/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/Classes/RootViewController.m:155: warning: (Messages without a matching method signature
+o/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/Classes/RootViewController.m:155: warning: will be assumed to return 'id' and accept
+o/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/Classes/RootViewController.m:155: warning: '...' as arguments.)
+o/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/Classes/RootViewController.m:156: warning: 'UIView' may not respond to '-setNoChapter:'
+o/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/Classes/RootViewController.m:161: warning: 'UIView' may not respond to '-setFile:'
+lSLF07#2@97"Compile /Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/Classes/RootViewController.m302009160#302009160#0(2129"/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/Classes/RootViewController.m: In function '-[RootViewController viewDidLoad]':/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/Classes/RootViewController.m:18: warning: incompatible Objective-C types assigning 'struct NSArray *', expected 'struct NSMutableArray *'/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/Classes/RootViewController.m: In function '-[RootViewController tableView:cellForRowAtIndexPath:]':/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/Classes/RootViewController.m:118: warning: 'setText:' is deprecated (declared at /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITableViewCell.h:210)/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/Classes/RootViewController.m:122: warning: 'setTextColor:' is deprecated (declared at /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITableViewCell.h:210)/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/Classes/RootViewController.m: In function '-[RootViewController tableView:didSelectRowAtIndexPath:]':/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/Classes/RootViewController.m:155: warning: 'UIView' may not respond to '-setChapterid:'/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/Classes/RootViewController.m:155: warning: (Messages without a matching method signature/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/Classes/RootViewController.m:155: warning: will be assumed to return 'id' and accept/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/Classes/RootViewController.m:155: warning: '...' as arguments.)/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/Classes/RootViewController.m:156: warning: 'UIView' may not respond to '-setNoChapter:'/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/Classes/RootViewController.m:161: warning: 'UIView' may not respond to '-setFile:'7(22@95"Incompatible Objective-C types assigning 'struct NSArray *', expected 'struct NSMutableArray *'302009160#140#199#0(6@89"/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/Classes/RootViewController.m301960652#18#0#18#0#58"incompatible Objective-C types assigning '*', expected '*'0(22@194"'setText:' is deprecated (declared at /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITableViewCell.h:210)302009160#500#299#0(6@89"/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/Classes/RootViewController.m301960652#118#0#118#0#33"'*' is deprecated (declared at *)0(22@199"'setTextColor:' is deprecated (declared at /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITableViewCell.h:210)302009160#799#304#0(6@89"/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/Classes/RootViewController.m301960652#122#0#122#0#33"'*' is deprecated (declared at *)0(22@44"'UIView' may not respond to '-setChapterid:'302009160#1266#149#0(6@89"/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/Classes/RootViewController.m301960652#155#0#155#0#26"'*' may not respond to '*'0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)302009160#1415#150#0(6@89"/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/Classes/RootViewController.m301960652#155#0#155#0#0"0(22@44"'UIView' may not respond to '-setNoChapter:'302009160#1836#149#0(6@89"/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/Classes/RootViewController.m301960652#156#0#156#0#26"'*' may not respond to '*'0(22@39"'UIView' may not respond to '-setFile:'302009160#1985#144#0(6@89"/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/Classes/RootViewController.m301960652#161#0#161#0#26"'*' may not respond to '*'0(0#0#89"/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/Classes/RootViewController.m8629525536#2341"    cd "/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/BookViewer.build/Distribution-iphonesimulator/BookViewer.build/BookViewer-generated-files.hmap" "-I/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/BookViewer.build/Distribution-iphonesimulator/BookViewer.build/BookViewer-own-target-headers.hmap" "-I/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/BookViewer.build/Distribution-iphonesimulator/BookViewer.build/BookViewer-all-target-headers.hmap" -iquote "/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/BookViewer.build/Distribution-iphonesimulator/BookViewer.build/BookViewer-project-headers.hmap" "-F/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/Distribution-iphonesimulator" "-I/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/Distribution-iphonesimulator/include" "-I/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/BookViewer.build/Distribution-iphonesimulator/BookViewer.build/DerivedSources/i386" "-I/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/BookViewer.build/Distribution-iphonesimulator/BookViewer.build/DerivedSources" -include /var/folders/u2/u2etg019HUe6RGtQVIIV9U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BookViewer_Prefix-alfeejmktnikbegvondtrbinddvg/BookViewer_Prefix.pch -c "/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/Classes/RootViewController.m" -o "/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/BookViewer.build/Distribution-iphonesimulator/BookViewer.build/Objects-normal/i386/RootViewController.o"0#
+
+CCompileC build/BookViewer.build/Distribution-iphonesimulator/BookViewer.build/Objects-normal/i386/ViewChapter1.o "/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/Classes/ViewChapter1.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s302009160.626956
+e302009160.971469
+r1
+xCompileC
+xbuild/BookViewer.build/Distribution-iphonesimulator/BookViewer.build/Objects-normal/i386/ViewChapter1.o
+x/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/Classes/ViewChapter1.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/Classes/ViewChapter1.m: In function '-[ViewChapter1 NextChapter]':
+o/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/Classes/ViewChapter1.m:47: warning: format not a string literal and no format arguments
+o/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/Classes/ViewChapter1.m: In function '-[ViewChapter1 PreviousChapter]':
+o/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/Classes/ViewChapter1.m:73: warning: format not a string literal and no format arguments
+lSLF07#2@91"Compile /Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/Classes/ViewChapter1.m302009160#302009160#0(558"/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/Classes/ViewChapter1.m: In function '-[ViewChapter1 NextChapter]':/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/Classes/ViewChapter1.m:47: warning: format not a string literal and no format arguments/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/Classes/ViewChapter1.m: In function '-[ViewChapter1 PreviousChapter]':/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/Classes/ViewChapter1.m:73: warning: format not a string literal and no format arguments2(22@51"Format not a string literal and no format arguments302009160#128#149#0(6@83"/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/Classes/ViewChapter1.m302006584#47#0#47#0#51"format not a string literal and no format arguments0(22@51"Format not a string literal and no format arguments302009160#409#149#0(6@83"/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/Classes/ViewChapter1.m302006584#73#0#73#0#51"format not a string literal and no format arguments0(0#0#83"/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/Classes/ViewChapter1.m8621451424#2329"    cd "/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/BookViewer.build/Distribution-iphonesimulator/BookViewer.build/BookViewer-generated-files.hmap" "-I/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/BookViewer.build/Distribution-iphonesimulator/BookViewer.build/BookViewer-own-target-headers.hmap" "-I/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/BookViewer.build/Distribution-iphonesimulator/BookViewer.build/BookViewer-all-target-headers.hmap" -iquote "/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/BookViewer.build/Distribution-iphonesimulator/BookViewer.build/BookViewer-project-headers.hmap" "-F/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/Distribution-iphonesimulator" "-I/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/Distribution-iphonesimulator/include" "-I/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/BookViewer.build/Distribution-iphonesimulator/BookViewer.build/DerivedSources/i386" "-I/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/BookViewer.build/Distribution-iphonesimulator/BookViewer.build/DerivedSources" -include /var/folders/u2/u2etg019HUe6RGtQVIIV9U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BookViewer_Prefix-alfeejmktnikbegvondtrbinddvg/BookViewer_Prefix.pch -c "/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/Classes/ViewChapter1.m" -o "/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/BookViewer.build/Distribution-iphonesimulator/BookViewer.build/Objects-normal/i386/ViewChapter1.o"0#
+
+CCompileC build/BookViewer.build/Distribution-iphonesimulator/BookViewer.build/Objects-normal/i386/main.o "/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s302009160.473346
+e302009160.617631
+r1
+xCompileC
+xbuild/BookViewer.build/Distribution-iphonesimulator/BookViewer.build/Objects-normal/i386/main.o
+x/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@75"Compile /Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/main.m302009160#302009160#0(0"0(0#0#67"/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/main.m8636183136#2305"    cd "/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/BookViewer.build/Distribution-iphonesimulator/BookViewer.build/BookViewer-generated-files.hmap" "-I/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/BookViewer.build/Distribution-iphonesimulator/BookViewer.build/BookViewer-own-target-headers.hmap" "-I/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/BookViewer.build/Distribution-iphonesimulator/BookViewer.build/BookViewer-all-target-headers.hmap" -iquote "/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/BookViewer.build/Distribution-iphonesimulator/BookViewer.build/BookViewer-project-headers.hmap" "-F/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/Distribution-iphonesimulator" "-I/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/Distribution-iphonesimulator/include" "-I/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/BookViewer.build/Distribution-iphonesimulator/BookViewer.build/DerivedSources/i386" "-I/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/BookViewer.build/Distribution-iphonesimulator/BookViewer.build/DerivedSources" -include /var/folders/u2/u2etg019HUe6RGtQVIIV9U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BookViewer_Prefix-alfeejmktnikbegvondtrbinddvg/BookViewer_Prefix.pch -c "/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/main.m" -o "/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/BookViewer.build/Distribution-iphonesimulator/BookViewer.build/Objects-normal/i386/main.o"0#
+
+CCompileXIB "/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/BookViewChapter0.xib"
+s302009157.135716
+e302009158.532791
+r1
+xCompileXIB
+x/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/BookViewChapter0.xib
+o/* com.apple.ibtool.document.warnings */
+o/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/BookViewChapter0.xib:6: warning: The scroll view textured background pattern color is not available in iPhone OS versions prior to 3.2.
+o/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/BookViewChapter0.xib:6: warning: The scroll view textured background pattern color is not available in iPhone OS versions prior to 3.2.
+lSLF07#2@31"CompileXIB BookViewChapter0.xib302009157#302009158#0(435"/* com.apple.ibtool.document.warnings *//Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/BookViewChapter0.xib:6: warning: The scroll view textured background pattern color is not available in iPhone OS versions prior to 3.2./Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/BookViewChapter0.xib:6: warning: The scroll view textured background pattern color is not available in iPhone OS versions prior to 3.2.2(22@102"The scroll view textured background pattern color is not available in iPhone OS versions prior to 3.2.302009158#18446744073709551615#0#0(6@81"/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/BookViewChapter0.xib302005783#6#0#6#0#0"0(22@102"The scroll view textured background pattern color is not available in iPhone OS versions prior to 3.2.302009158#18446744073709551615#0#0(6@81"/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/BookViewChapter0.xib302005783#6#0#6#0#0"0(0#0#81"/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/BookViewChapter0.xib8641440160#664"    cd "/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/Distribution-iphonesimulator/BookViewer.app/BookViewChapter0.nib" "/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/BookViewChapter0.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk0#
+
+CCompileXIB "/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/BookViewChapter1.xib"
+s302009157.295738
+e302009158.290711
+r1
+xCompileXIB
+x/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/BookViewChapter1.xib
+lSLF07#2@31"CompileXIB BookViewChapter1.xib302009157#302009158#0(0"0(0#0#81"/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/BookViewChapter1.xib8636038496#664"    cd "/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/Distribution-iphonesimulator/BookViewer.app/BookViewChapter1.nib" "/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/BookViewChapter1.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk0#
+
+CCompileXIB "/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/Classes/BookViewBookmarks.xib"
+s302009158.471872
+e302009159.039122
+r1
+xCompileXIB
+x/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/Classes/BookViewBookmarks.xib
+lSLF07#2@40"CompileXIB Classes/BookViewBookmarks.xib302009158#302009159#0(0"0(0#0#90"/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/Classes/BookViewBookmarks.xib8619577952#674"    cd "/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/Distribution-iphonesimulator/BookViewer.app/BookViewBookmarks.nib" "/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/Classes/BookViewBookmarks.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk0#
+
+CCompileXIB "/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/MainWindow.xib"
+s302009155.510009
+e302009157.122320
+r1
+xCompileXIB
+x/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib302009155#302009157#0(0"0(0#0#75"/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/MainWindow.xib8636497632#652"    cd "/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/Distribution-iphonesimulator/BookViewer.app/MainWindow.nib" "/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/MainWindow.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk0#
+
+CCompileXIB "/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/RootViewController.xib"
+s302009155.511050
+e302009157.295634
+r1
+xCompileXIB
+x/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/RootViewController.xib
+lSLF07#2@33"CompileXIB RootViewController.xib302009155#302009157#0(0"0(0#0#83"/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/RootViewController.xib8634769600#668"    cd "/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/Distribution-iphonesimulator/BookViewer.app/RootViewController.nib" "/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/RootViewController.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk0#
+
+CCpResource "build/Distribution-iphonesimulator/BookViewer.app/paw minus.png" "paw minus.png"
+s302009158.576794
+e302009158.615130
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/BookViewer.app/paw minus.png
+xpaw minus.png
+lSLF07#2@18"Copy paw minus.png302009158#302009158#0(0"0(0#0#74"/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/paw minus.png8631811264#560"    cd "/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/paw minus.png" "/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/Distribution-iphonesimulator/BookViewer.app"0#
+
+CCpResource build/Distribution-iphonesimulator/BookViewer.app/04-squiggle.png 04-squiggle.png
+s302009158.543665
+e302009158.586771
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/BookViewer.app/04-squiggle.png
+x04-squiggle.png
+lSLF07#2@20"Copy 04-squiggle.png302009158#302009158#0(0"0(0#0#76"/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/04-squiggle.png8635219840#562"    cd "/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/04-squiggle.png" "/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/Distribution-iphonesimulator/BookViewer.app"0#
+
+CCpResource build/Distribution-iphonesimulator/BookViewer.app/04-squiggleleft.png 04-squiggleleft.png
+s302009158.556488
+e302009158.579629
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/BookViewer.app/04-squiggleleft.png
+x04-squiggleleft.png
+lSLF07#2@24"Copy 04-squiggleleft.png302009158#302009158#0(0"0(0#0#80"/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/04-squiggleleft.png8634579104#566"    cd "/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/04-squiggleleft.png" "/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/Distribution-iphonesimulator/BookViewer.app"0#
+
+CCpResource build/Distribution-iphonesimulator/BookViewer.app/1.dat 1.dat
+s302009158.290827
+e302009158.297444
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/BookViewer.app/1.dat
+x1.dat
+lSLF07#2@10"Copy 1.dat302009158#302009158#0(0"0(0#0#66"/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/1.dat8634972064#552"    cd "/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/1.dat" "/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/Distribution-iphonesimulator/BookViewer.app"0#
+
+CCpResource build/Distribution-iphonesimulator/BookViewer.app/10.dat 10.dat
+s302009158.297523
+e302009158.351345
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/BookViewer.app/10.dat
+x10.dat
+lSLF07#2@11"Copy 10.dat302009158#302009158#0(0"0(0#0#67"/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/10.dat8631218912#553"    cd "/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/10.dat" "/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/Distribution-iphonesimulator/BookViewer.app"0#
+
+CCpResource build/Distribution-iphonesimulator/BookViewer.app/11.dat 11.dat
+s302009158.326742
+e302009158.373474
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/BookViewer.app/11.dat
+x11.dat
+lSLF07#2@11"Copy 11.dat302009158#302009158#0(0"0(0#0#67"/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/11.dat8629705088#553"    cd "/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/11.dat" "/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/Distribution-iphonesimulator/BookViewer.app"0#
+
+CCpResource build/Distribution-iphonesimulator/BookViewer.app/12-eye.png 12-eye.png
+s302009158.562517
+e302009158.579757
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/BookViewer.app/12-eye.png
+x12-eye.png
+lSLF07#2@15"Copy 12-eye.png302009158#302009158#0(0"0(0#0#71"/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/12-eye.png8632742112#557"    cd "/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/12-eye.png" "/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/Distribution-iphonesimulator/BookViewer.app"0#
+
+CCpResource build/Distribution-iphonesimulator/BookViewer.app/12.dat 12.dat
+s302009158.331784
+e302009158.372842
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/BookViewer.app/12.dat
+x12.dat
+lSLF07#2@11"Copy 12.dat302009158#302009158#0(0"0(0#0#67"/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/12.dat8629564448#553"    cd "/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/12.dat" "/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/Distribution-iphonesimulator/BookViewer.app"0#
+
+CCpResource build/Distribution-iphonesimulator/BookViewer.app/13.dat 13.dat
+s302009158.336673
+e302009158.372967
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/BookViewer.app/13.dat
+x13.dat
+lSLF07#2@11"Copy 13.dat302009158#302009158#0(0"0(0#0#67"/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/13.dat8629367456#553"    cd "/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/13.dat" "/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/Distribution-iphonesimulator/BookViewer.app"0#
+
+CCpResource build/Distribution-iphonesimulator/BookViewer.app/14.dat 14.dat
+s302009158.343778
+e302009158.373098
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/BookViewer.app/14.dat
+x14.dat
+lSLF07#2@11"Copy 14.dat302009158#302009158#0(0"0(0#0#67"/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/14.dat8629190464#553"    cd "/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/14.dat" "/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/Distribution-iphonesimulator/BookViewer.app"0#
+
+CCpResource build/Distribution-iphonesimulator/BookViewer.app/15.dat 15.dat
+s302009158.351825
+e302009158.372554
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/BookViewer.app/15.dat
+x15.dat
+lSLF07#2@11"Copy 15.dat302009158#302009158#0(0"0(0#0#67"/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/15.dat8629095584#553"    cd "/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/15.dat" "/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/Distribution-iphonesimulator/BookViewer.app"0#
+
+CCpResource build/Distribution-iphonesimulator/BookViewer.app/16.dat 16.dat
+s302009158.356916
+e302009158.372712
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/BookViewer.app/16.dat
+x16.dat
+lSLF07#2@11"Copy 16.dat302009158#302009158#0(0"0(0#0#67"/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/16.dat8628985696#553"    cd "/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/16.dat" "/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/Distribution-iphonesimulator/BookViewer.app"0#
+
+CCpResource build/Distribution-iphonesimulator/BookViewer.app/17.dat 17.dat
+s302009158.360810
+e302009158.373346
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/BookViewer.app/17.dat
+x17.dat
+lSLF07#2@11"Copy 17.dat302009158#302009158#0(0"0(0#0#67"/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/17.dat8625480416#553"    cd "/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/17.dat" "/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/Distribution-iphonesimulator/BookViewer.app"0#
+
+CCpResource build/Distribution-iphonesimulator/BookViewer.app/18.dat 18.dat
+s302009158.364728
+e302009158.413399
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/BookViewer.app/18.dat
+x18.dat
+lSLF07#2@11"Copy 18.dat302009158#302009158#0(0"0(0#0#67"/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/18.dat8623807488#553"    cd "/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/18.dat" "/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/Distribution-iphonesimulator/BookViewer.app"0#
+
+CCpResource build/Distribution-iphonesimulator/BookViewer.app/19.dat 19.dat
+s302009158.373568
+e302009158.412523
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/BookViewer.app/19.dat
+x19.dat
+lSLF07#2@11"Copy 19.dat302009158#302009158#0(0"0(0#0#67"/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/19.dat8622030912#553"    cd "/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/19.dat" "/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/Distribution-iphonesimulator/BookViewer.app"0#
+
+CCpResource build/Distribution-iphonesimulator/BookViewer.app/2.dat 2.dat
+s302009158.291714
+e302009158.351489
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/BookViewer.app/2.dat
+x2.dat
+lSLF07#2@10"Copy 2.dat302009158#302009158#0(0"0(0#0#66"/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/2.dat8634771712#552"    cd "/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/2.dat" "/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/Distribution-iphonesimulator/BookViewer.app"0#
+
+CCpResource build/Distribution-iphonesimulator/BookViewer.app/20.dat 20.dat
+s302009158.377530
+e302009158.412669
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/BookViewer.app/20.dat
+x20.dat
+lSLF07#2@11"Copy 20.dat302009158#302009158#0(0"0(0#0#67"/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/20.dat8621321792#553"    cd "/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/20.dat" "/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/Distribution-iphonesimulator/BookViewer.app"0#
+
+CCpResource build/Distribution-iphonesimulator/BookViewer.app/21_256x256.png 21_256x256.png
+s302009158.413481
+e302009158.476336
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/BookViewer.app/21_256x256.png
+x21_256x256.png
+lSLF07#2@19"Copy 21_256x256.png302009158#302009158#0(0"0(0#0#75"/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/21_256x256.png8621657152#561"    cd "/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/21_256x256.png" "/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/Distribution-iphonesimulator/BookViewer.app"0#
+
+CCpResource build/Distribution-iphonesimulator/BookViewer.app/3.dat 3.dat
+s302009158.292448
+e302009158.331422
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/BookViewer.app/3.dat
+x3.dat
+lSLF07#2@10"Copy 3.dat302009158#302009158#0(0"0(0#0#66"/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/3.dat8634103520#552"    cd "/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/3.dat" "/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/Distribution-iphonesimulator/BookViewer.app"0#
+
+CCpResource build/Distribution-iphonesimulator/BookViewer.app/4.dat 4.dat
+s302009158.293130
+e302009158.331568
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/BookViewer.app/4.dat
+x4.dat
+lSLF07#2@10"Copy 4.dat302009158#302009158#0(0"0(0#0#66"/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/4.dat8632671072#552"    cd "/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/4.dat" "/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/Distribution-iphonesimulator/BookViewer.app"0#
+
+CCpResource build/Distribution-iphonesimulator/BookViewer.app/5.dat 5.dat
+s302009158.293809
+e302009158.331697
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/BookViewer.app/5.dat
+x5.dat
+lSLF07#2@10"Copy 5.dat302009158#302009158#0(0"0(0#0#66"/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/5.dat8632478592#552"    cd "/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/5.dat" "/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/Distribution-iphonesimulator/BookViewer.app"0#
+
+CCpResource build/Distribution-iphonesimulator/BookViewer.app/59-flag.png 59-flag.png
+s302009158.396549
+e302009158.487489
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/BookViewer.app/59-flag.png
+x59-flag.png
+lSLF07#2@16"Copy 59-flag.png302009158#302009158#0(0"0(0#0#72"/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/59-flag.png8603670144#558"    cd "/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/59-flag.png" "/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/Distribution-iphonesimulator/BookViewer.app"0#
+
+CCpResource build/Distribution-iphonesimulator/BookViewer.app/6.dat 6.dat
+s302009158.294491
+e302009158.373224
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/BookViewer.app/6.dat
+x6.dat
+lSLF07#2@10"Copy 6.dat302009158#302009158#0(0"0(0#0#66"/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/6.dat8632047968#552"    cd "/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/6.dat" "/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/Distribution-iphonesimulator/BookViewer.app"0#
+
+CCpResource build/Distribution-iphonesimulator/BookViewer.app/7.dat 7.dat
+s302009158.295193
+e302009158.351613
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/BookViewer.app/7.dat
+x7.dat
+lSLF07#2@10"Copy 7.dat302009158#302009158#0(0"0(0#0#66"/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/7.dat8631836160#552"    cd "/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/7.dat" "/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/Distribution-iphonesimulator/BookViewer.app"0#
+
+CCpResource build/Distribution-iphonesimulator/BookViewer.app/8.dat 8.dat
+s302009158.295874
+e302009158.351741
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/BookViewer.app/8.dat
+x8.dat
+lSLF07#2@10"Copy 8.dat302009158#302009158#0(0"0(0#0#66"/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/8.dat8631613632#552"    cd "/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/8.dat" "/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/Distribution-iphonesimulator/BookViewer.app"0#
+
+CCpResource build/Distribution-iphonesimulator/BookViewer.app/9.dat 9.dat
+s302009158.296572
+e302009158.326627
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/BookViewer.app/9.dat
+x9.dat
+lSLF07#2@10"Copy 9.dat302009158#302009158#0(0"0(0#0#66"/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/9.dat8631350976#552"    cd "/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/9.dat" "/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/Distribution-iphonesimulator/BookViewer.app"0#
+
+CCpResource build/Distribution-iphonesimulator/BookViewer.app/Download.Com.png Download.Com.png
+s302009158.406987
+e302009158.487619
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/BookViewer.app/Download.Com.png
+xDownload.Com.png
+lSLF07#2@21"Copy Download.Com.png302009158#302009158#0(0"0(0#0#77"/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/Download.Com.png8622621248#563"    cd "/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/Download.Com.png" "/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/Distribution-iphonesimulator/BookViewer.app"0#
+
+CCpResource build/Distribution-iphonesimulator/BookViewer.app/Icon.png Icon.png
+s302009157.124700
+e302009157.188926
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/BookViewer.app/Icon.png
+xIcon.png
+lSLF07#2@13"Copy Icon.png302009157#302009157#0(0"0(0#0#69"/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/Icon.png8614827584#555"    cd "/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/Icon.png" "/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/Distribution-iphonesimulator/BookViewer.app"0#
+
+CCpResource build/Distribution-iphonesimulator/BookViewer.app/Icon015.png Icon015.png
+s302009158.426640
+e302009158.487361
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/BookViewer.app/Icon015.png
+xIcon015.png
+lSLF07#2@16"Copy Icon015.png302009158#302009158#0(0"0(0#0#72"/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/Icon015.png8620392832#558"    cd "/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/Icon015.png" "/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/Distribution-iphonesimulator/BookViewer.app"0#
+
+CCpResource build/Distribution-iphonesimulator/BookViewer.app/about.jpg about.jpg
+s302009157.129665
+e302009157.216877
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/BookViewer.app/about.jpg
+xabout.jpg
+lSLF07#2@14"Copy about.jpg302009157#302009157#0(0"0(0#0#70"/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/about.jpg8605871328#556"    cd "/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/about.jpg" "/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/Distribution-iphonesimulator/BookViewer.app"0#
+
+CCpResource build/Distribution-iphonesimulator/BookViewer.app/book_48.png book_48.png
+s302009158.390707
+e302009158.413090
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/BookViewer.app/book_48.png
+xbook_48.png
+lSLF07#2@16"Copy book_48.png302009158#302009158#0(0"0(0#0#72"/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/book_48.png8609634816#558"    cd "/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/book_48.png" "/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/Distribution-iphonesimulator/BookViewer.app"0#
+
+CCpResource build/Distribution-iphonesimulator/BookViewer.app/community_128.png community_128.png
+s302009158.421994
+e302009158.476485
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/BookViewer.app/community_128.png
+xcommunity_128.png
+lSLF07#2@22"Copy community_128.png302009158#302009158#0(0"0(0#0#78"/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/community_128.png8621060352#564"    cd "/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/community_128.png" "/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/Distribution-iphonesimulator/BookViewer.app"0#
+
+CCpResource build/Distribution-iphonesimulator/BookViewer.app/decoration-top.jpg decoration-top.jpg
+s302009158.532897
+e302009158.579483
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/BookViewer.app/decoration-top.jpg
+xdecoration-top.jpg
+lSLF07#2@23"Copy decoration-top.jpg302009158#302009158#0(0"0(0#0#79"/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/decoration-top.jpg8640729664#565"    cd "/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/decoration-top.jpg" "/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/Distribution-iphonesimulator/BookViewer.app"0#
+
+CCpResource build/Distribution-iphonesimulator/BookViewer.app/decoration-top.png decoration-top.png
+s302009157.122581
+e302009157.216649
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/BookViewer.app/decoration-top.png
+xdecoration-top.png
+lSLF07#2@23"Copy decoration-top.png302009157#302009157#0(0"0(0#0#79"/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/decoration-top.png8634365568#565"    cd "/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/decoration-top.png" "/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/Distribution-iphonesimulator/BookViewer.app"0#
+
+CCpResource build/Distribution-iphonesimulator/BookViewer.app/home_48.png Classes/home_48.png
+s302009158.384559
+e302009158.412961
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/BookViewer.app/home_48.png
+xClasses/home_48.png
+lSLF07#2@24"Copy Classes/home_48.png302009158#302009158#0(0"0(0#0#80"/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/Classes/home_48.png8613502272#566"    cd "/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/Classes/home_48.png" "/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/Distribution-iphonesimulator/BookViewer.app"0#
+
+CCpResource build/Distribution-iphonesimulator/BookViewer.app/icon_book_marked.png icon_book_marked.png
+s302009158.404567
+e302009158.413219
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/BookViewer.app/icon_book_marked.png
+xicon_book_marked.png
+lSLF07#2@25"Copy icon_book_marked.png302009158#302009158#0(0"0(0#0#81"/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/icon_book_marked.png8625383776#567"    cd "/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/icon_book_marked.png" "/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/Distribution-iphonesimulator/BookViewer.app"0#
+
+CCpResource build/Distribution-iphonesimulator/BookViewer.app/list.dat list.dat
+s302009158.379689
+e302009158.412795
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/BookViewer.app/list.dat
+xlist.dat
+lSLF07#2@13"Copy list.dat302009158#302009158#0(0"0(0#0#69"/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/list.dat8620574912#555"    cd "/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/list.dat" "/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/Distribution-iphonesimulator/BookViewer.app"0#
+
+CCpResource build/Distribution-iphonesimulator/BookViewer.app/paw.png paw.png
+s302009158.563489
+e302009158.596426
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/BookViewer.app/paw.png
+xpaw.png
+lSLF07#2@12"Copy paw.png302009158#302009158#0(0"0(0#0#68"/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/paw.png8632410144#554"    cd "/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/paw.png" "/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/Distribution-iphonesimulator/BookViewer.app"0#
+
+CCpResource build/Distribution-iphonesimulator/BookViewer.app/picture_128.png picture_128.png
+s302009158.423673
+e302009158.487192
+r1
+xCpResource
+xbuild/Distribution-iphonesimulator/BookViewer.app/picture_128.png
+xpicture_128.png
+lSLF07#2@20"Copy picture_128.png302009158#302009158#0(0"0(0#0#76"/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/picture_128.png8606771040#562"    cd "/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -strip-debug-symbols -resolve-src-symlinks "/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/picture_128.png" "/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/Distribution-iphonesimulator/BookViewer.app"0#
+
+CGenerateDSYMFile "/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/Distribution-iphonesimulator/BookViewer.app.dSYM" "/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/Distribution-iphonesimulator/BookViewer.app/BookViewer"
+s302009161.818493
+e302009161.856587
+r1
+xGenerateDSYMFile
+x/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/Distribution-iphonesimulator/BookViewer.app.dSYM
+x/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/Distribution-iphonesimulator/BookViewer.app/BookViewer
+lSLF07#2@132"GenerateDSYMFile build/Distribution-iphonesimulator/BookViewer.app.dSYM build/Distribution-iphonesimulator/BookViewer.app/BookViewer302009161#302009161#0(0"0(0#0#121"/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/Distribution-iphonesimulator/BookViewer.app/BookViewer8620620544#478"    cd "/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/Distribution-iphonesimulator/BookViewer.app/BookViewer" -o "/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/Distribution-iphonesimulator/BookViewer.app.dSYM"0#
+
+CLd "/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/Distribution-iphonesimulator/BookViewer.app/BookViewer" normal i386
+s302009161.383732
+e302009161.818227
+r1
+xLd
+x/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/Distribution-iphonesimulator/BookViewer.app/BookViewer
+xnormal
+xi386
+lSLF07#2@126"Link /Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/Distribution-iphonesimulator/BookViewer.app/BookViewer302009161#302009161#0(0"0(0#0#0"8631657536#1063"    cd "/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer"    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk "-L/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/Distribution-iphonesimulator" "-F/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/Distribution-iphonesimulator" -filelist "/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/BookViewer.build/Distribution-iphonesimulator/BookViewer.build/Objects-normal/i386/BookViewer.LinkFileList" -mmacosx-version-min=10.5 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o "/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/Distribution-iphonesimulator/BookViewer.app/BookViewer"0#
+
+CProcessInfoPlistFile "/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/Distribution-iphonesimulator/BookViewer.app/Info.plist" BookViewer-Info.plist
+s302009155.435143
+e302009155.509887
+r1
+xProcessInfoPlistFile
+x/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/Distribution-iphonesimulator/BookViewer.app/Info.plist
+xBookViewer-Info.plist
+lSLF07#2@29"Process BookViewer-Info.plist302009155#302009155#0(0"0(0#0#82"/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/BookViewer-Info.plist8621273024#574"    cd "/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility BookViewer-Info.plist -genpkginfo "/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/Distribution-iphonesimulator/BookViewer.app/PkgInfo" -expandbuildsettings -format binary -platform iphonesimulator -o "/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/Distribution-iphonesimulator/BookViewer.app/Info.plist"0#
+
+CProcessPCH /var/folders/u2/u2etg019HUe6RGtQVIIV9U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BookViewer_Prefix-alfeejmktnikbegvondtrbinddvg/BookViewer_Prefix.pch.gch BookViewer_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s302009159.040072
+e302009160.470368
+r1
+xProcessPCH
+x/var/folders/u2/u2etg019HUe6RGtQVIIV9U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BookViewer_Prefix-alfeejmktnikbegvondtrbinddvg/BookViewer_Prefix.pch.gch
+xBookViewer_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@32"Precompile BookViewer_Prefix.pch302009159#302009160#0(0"0(0#0#82"/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/BookViewer_Prefix.pch8629138432#2163"    cd "/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote "/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/BookViewer.build/Distribution-iphonesimulator/BookViewer.build/BookViewer-generated-files.hmap" "-I/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/BookViewer.build/Distribution-iphonesimulator/BookViewer.build/BookViewer-own-target-headers.hmap" "-I/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/BookViewer.build/Distribution-iphonesimulator/BookViewer.build/BookViewer-all-target-headers.hmap" -iquote "/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/BookViewer.build/Distribution-iphonesimulator/BookViewer.build/BookViewer-project-headers.hmap" "-F/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/Distribution-iphonesimulator" "-I/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/Distribution-iphonesimulator/include" "-I/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/BookViewer.build/Distribution-iphonesimulator/BookViewer.build/DerivedSources/i386" "-I/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/BookViewer.build/Distribution-iphonesimulator/BookViewer.build/DerivedSources" -c "/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/BookViewer_Prefix.pch" -o /var/folders/u2/u2etg019HUe6RGtQVIIV9U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BookViewer_Prefix-alfeejmktnikbegvondtrbinddvg/BookViewer_Prefix.pch.gch0#
+
+CTouch "/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/Distribution-iphonesimulator/BookViewer.app"
+s302009161.856691
+e302009161.862287
+r1
+xTouch
+x/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/Distribution-iphonesimulator/BookViewer.app
+lSLF07#2@116"Touch /Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/Distribution-iphonesimulator/BookViewer.app302009161#302009161#0(0"0(0#0#0"8620160864#336"    cd "/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/khanhnguyen/Documents/KuBaTha Applications/BookViewer/build/Distribution-iphonesimulator/BookViewer.app"0#
+
